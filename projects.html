@@ -46,21 +46,19 @@
                <span class="lnr lnr-menu"></span>
                </button>
                <div class="collapse navbar-collapse" id="navbar-nav-header">
-                  <ul class="navbar-nav ml-auto">
-                     <!-- <li class="nav-item">
-                        <a class="nav-link" href="#home">Home</a>
-                        </li> -->
-                     <li class="nav-item">
-                        <a class="nav-link" href="https://www.linkedin.com/in/yuchen-zhang-a3ba27245/">Profile</a>
-                     </li>
-                     <li class="nav-item">
-                        <a class="nav-link" href="https://www.youtube.com/playlist?list=PLeZibOILM6_4VPgLp9JlHjwMQ7ePkpkJk">Music</a>
-                     </li>
-                     <li class="nav-item">
-                        <a class="nav-link" href="https://github.com/petitmi?tab=repositories">Project</a>
-                     </li>
-                  </ul>
-               </div>
+                <ul class="navbar-nav ml-auto">
+
+                   <li class="nav-item">
+                      <a class="nav-link" href="CV.html">CV</a>
+                   </li>
+                   <li class="nav-item">
+                      <a class="nav-link" href="/music.html">Music</a>
+                   </li>
+                   <li class="nav-item">
+                      <a class="nav-link" href="/projects.html">Projects</a>
+                   </li>
+                </ul>
+             </div>
             </div>
          </nav>
          <section id="gtco-who-we-are" class="bg-white">
@@ -68,18 +66,21 @@
                <div class="title-wrap">
                   <h2 class="section-title">Projects<br><b>   </b></h2>
                </div>
-               <div class="row text-center">
-                  <div class="Projects" style="margin:auto;" >
+               <div class="row text-center" style="width: 80%; margin: auto;">
+                  <div class="Projects" >
                      <div class="more" style="text-align:right">
                         <p><a class="btn btn-link" href="https://www.youtube.com/playlist?list=PLeZibOILM6_4VPgLp9JlHjwMQ7ePkpkJk" role="button">More on GitHub>>></a></p>
                      </div>
-                     <div class="project" style="float:left;text-align: left;">
+                     <div class="project" style="display:block;float:left;text-align: left;">
                         <h4>MusicJam</h4>
-                        <h6>Generate music based on empirical and theoretical probability.</h6>
-                        <p><b>eg</b>: Input three random notes: C, E, D  in reverse gallop rhythm. Get a 4 bar generated music with the opening of Input:</p>
-
-                        <midi-player src='files/file.mid' sound-font></midi-player>
-                        <midi-visualizer type="staff" src='files/file.mid' id="myStaffVisualizer" ></midi-visualizer>
+                        <h6>Generate music pieces based on empirical and theoretical probability.</h6>
+                        <p><b>eg</b>: Input three random notes: C, E, D  in reverse gallop rhythm, then you get a generated 4-bar music piece with the opening of Input like:</p><br>
+                        <div >
+                            <midi-player src='files/file.mid' sound-font></midi-player>
+                        </div>
+                        <div style="width: 80%;">
+                            <img src="img/music-score.png">
+                        </div>
                      </div>
                   </div>
                </div>
