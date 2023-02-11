@@ -75,10 +75,11 @@
                      </div>
                      <div class="project" style="float:left;text-align: left;">
                         <h4>MusicJam</h4>
-                        <p><a>Generate music based on empirical and theoretical probability.</a></p>
-                        <p>input three random notes: </p>
+                        <h6>Generate music based on empirical and theoretical probability.</h6>
+                        <p><b>eg</b>: Input three random notes: C, E, D  in reverse gallop rhythm. Get a 4 bar generated music with the opening of Input:</p>
+
                         <midi-player src='files/file.mid' sound-font></midi-player>
-                        <midi-visualizer type="piano-roll" id="myVisualizer"></midi-visualizer>
+                        <midi-visualizer type="staff" src='files/file.mid' id="myStaffVisualizer" ></midi-visualizer>
                      </div>
                   </div>
                </div>
@@ -86,6 +87,5 @@
          </section>
       </div>
       <script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.5.0"></script> 
-
    </body>
 </html>
