@@ -15,10 +15,10 @@
   pageRef = "posts"
   weight = 10
 
-[[main]]
-  name = "Email"
-  url = "mailto:petitmi001@gmail.com"
-  weight = 20
+#[[main]]
+#  name = "Email"
+#  url = "mailto:petitmi001@gmail.com"
+#  weight = 20
 
 #[[main]]
 #  name = "example sub-menu 1"
