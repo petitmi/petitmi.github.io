@@ -1,5 +1,6 @@
 ---
-name : "Nyx"
+authors:
+ - "Nyx"
 title : "夹了青椒的陕西肉夹馍"
 date : 2023-04-16
 description : "Shaanxi Rougamo With Green Peppers"
