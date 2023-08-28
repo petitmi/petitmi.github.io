@@ -10,13 +10,13 @@ title = "Nyx"
   dateFormat = "2 January 2006"
   logo = "img/clown.jpg"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "我梦见了一只黑鸟｜I dreamt of a blackbird"
+  description = "黑鸟在树下｜Blackbird Under The Tree"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [author]
 # name = "Nyx"
 # image = "img/clown.jpg"
-  headline = "我梦见了一只黑鸟｜I dreamt of a blackbird."
+# headline = "我梦见了一只黑鸟｜I dreamt of a blackbird."
 #   bio = "A little bit about you"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
