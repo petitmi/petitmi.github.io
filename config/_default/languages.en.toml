@@ -8,14 +8,14 @@ title = "Nyx"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/clown.jpg"
+  logo = "img/clown.png"
   # secondaryLogo = "img/secondary-logo.png"
   description = "黑鸟在树下｜Blackbird Under The Tree"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [author]
 # name = "Nyx"
-# image = "img/clown.jpg"
+# image = "img/clown.png"
 # headline = "我梦见了一只黑鸟｜I dreamt of a blackbird."
 #   bio = "A little bit about you"
 #   links = [
