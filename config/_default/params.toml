@@ -6,7 +6,7 @@
 # https://blowfish.page/docs/configuration/#theme-parameters
 
 
-colorScheme = "Fire"
+colorScheme = "fire"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = false
 
@@ -39,22 +39,4 @@ autoSwitchAppearance = false
   showBreadcrumbs = false
   showSummary = true
   groupByYear = false
-
-[sitemap]
-
-[taxonomy]
-
-
-[term]
-
-
-[firebase]
-
-
-[fathomAnalytics]
-
-
-[buymeacoffee]
-
-[verification]
 
