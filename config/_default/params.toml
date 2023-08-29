@@ -5,6 +5,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
+
 colorScheme = "Fire"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = false
@@ -27,7 +28,7 @@ autoSwitchAppearance = false
 
 [article]
   showDate = true
-  showComments = true
+  showComments = false
   showReadingTime = false
   showTableOfContents = true
   showTaxonomies = true
