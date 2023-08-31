@@ -5,7 +5,7 @@ title : "夹了青椒的陕西肉夹馍"
 date : 2023-04-16
 description : "Shaanxi Rougamo With Green Peppers"
 tags : ["诗","西安", "肉夹馍", "生存"]
-summary: "老李从早上5点就开始忙活了, 搅了搅刚炖上的腊汁肉, 在烤炉上放上揉好的面, 为了这个城市新移民的口味, 他还切起了青椒。 (Old Lee has been working since 5:00 am, stirring the freshly simmered meat, putting the kneaded dough on the grill. For the taste of the city's new immigrants, he also cut up green peppers.)"
+summary: "老李从早上5点就开始忙活了, 搅了搅刚炖上的腊汁肉, 在烤炉上放上揉好的面, 为了这个城市新移民的口味, 他还切起了青椒。"
 ---
 
 <!-- ## 夹了青椒的肉夹馍 -->

@@ -5,7 +5,7 @@ title : "把云朵揽入口袋里"
 date : 2023-05-31
 description : "Take the clouds in my pockets"
 tags : ["诗"]
-summary: "把云朵揽入口袋里，捏碎了变成许多星辰。 华丽又锋利，就像你曾经说过的话一样。 (Take the clouds and tuck them into my pocket, crush them into numerous stars. Splendid and sharp, just like the words you once said.)"
+summary: "把云朵揽入口袋里，捏碎了变成许多星辰。 华丽又锋利，就像你曾经说过的话一样。"
 ---
 
 把云朵揽入口袋里，捏碎了变成许多星辰\
