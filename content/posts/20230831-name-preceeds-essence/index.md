@@ -8,11 +8,27 @@ tags : ["文","张猪", "名字"]
 summary: "王狗有一次问我，你到底是谁，我想了想，说我是打工的。"
 ---
 
-朋友帮ta的朋友养猫，是一只折耳猫名字叫奥利奥。
-<img src="ScottishFold.jpg" alt="Orea the Scottish Fold" weight="200"/>
+朋友帮ta的朋友养猫，是一只折耳猫名字叫奥利奥。朋友又说自己家里还有一只美短名字也叫奥利奥。
 <!-- ![Orea the Scottish Fold](ScottishFold.jpg =250x) -->
-朋友提到自己家里还有一只美短名字也叫奥利奥。
-<img src="AmericanShorthair.jpg" alt="Orea the American Shorthair" weight="200"/>
+<style>
+table, tr, td, th{
+padding: 10px;
+margin: auto;
+border: none;
+text-align: center;
+}
+</style>
+<table border-collapse="collapse">
+  <tr >
+    <td><img src="ScottishFold.jpg" alt="1" width=100% /> </td>
+    <td><img src="AmericanShorthair.jpg" alt="Orea the American Shorthair"/></td>
+  </tr>
+  <tr>
+    <td>折耳奥利奥</td>
+    <td>美短奥利奥</td>
+  </tr>
+</table>
+
 <!-- ![Orea the American Shorthair](AmericanShorthair.jpg) -->
 这勾起了我一个记忆，好像也认识不止一个小动物叫奥利奥，这个看似有些小情趣小创意的名字竟然成了人中李伟。
 
@@ -27,7 +43,7 @@ summary: "王狗有一次问我，你到底是谁，我想了想，说我是打�
 我给小猫起的名字是李白，谐音于里白。因为她身上都是黄色的，只有肚子是白色的。小猫李白懒散好吃，喜欢半夜4点在我身边散步。以己度猫我常常给她喂火腿肠，因为我最喜欢的小零食便是火腿肠。她吃的很胖也不爱玩，回到老家看到自己的兄弟姐妹都一个箭步就能上树，自己只能在下面干着急。
 
 小狗的名字是张猪，他是我爷爷那一年3月从马路边捡回来的一直中华田园小黑狗，5月爷爷就去世了。我想让小狗有一种成为我家一份子的感觉，所以他有和我们一样的姓。叫猪则是那种美好祝愿，觉得猪猪很可爱，天天在吃吃喝喝，躺着晒太阳那种无忧无虑的生活。张猪不是绝顶聪明的狗狗，所以永远也没学会在固定地方便便。他喜欢出去玩，也喜欢我。他看我的眼神永远是亲切热烈的，而且我吃什么他就也吃什么，但相同的东西我如果没吃他也不屑一顾。我那段时间喜欢吃榴莲，所以他也超爱，吃到自己有点便秘。不过这种杂食也让他营养很好，毛色发亮，很多人以为他是边牧。
-<img src="ZhuZhang.jpg" alt="张猪" weight="200"/>
+<img src="ZhuZhang.jpg" alt="张猪" width="200"/>
 对于小猫小狗来说，ta们可能发现主人用特定音调发出特定声音的时候，就是在望着ta们，所以知道了这个是叫ta们的意思。但是小动物没有自我意识，所以可能不知道这个词儿是代表ta们。
 
 ### 名字之一：标识
