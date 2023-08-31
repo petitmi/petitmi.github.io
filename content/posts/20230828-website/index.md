@@ -5,7 +5,7 @@ title : "开始，就是充满期待"
 date : 2023-08-28
 description : "The initialization of the website"
 tags : ["建站","文"]
-summary: "其实之前我有个人网站的，但那个真的做的很蠢。我自己都不愿点开，更何况别人呢？"
+summary: "其实之前我有个人网站的，但那个真的做的很蠢。我自己都不愿点开，更何况别人呢？ (Actually, I had a personal website before, but it was really poorly done. I myself didn't even want to click on it, let alone others.)"
 ---
 那天我看到[椒盐豆豉](https://blog.douchi.space/)的一篇博客[《**2023 年了你为什么需要写博客**》](https://blog.douchi.space/2023-why-you-need-a-blog/#gsc.tab=0)，她讲了自己从小写博客的习惯，自己如何跟着媒介的变化而变化，还有一些建站和维护的经验。确实是一个钩子🪝，激励了我重新做一个以博客为主的个人网站。
 
