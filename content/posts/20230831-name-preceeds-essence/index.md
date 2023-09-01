@@ -1,10 +1,11 @@
 ---
 authors:
  - "Nyx"
-title : "名字先于本质"
-date : 2023-08-31
-description : "Name Preceeds Essence"
-tags : ["文","张猪", "名字"]
+title: "名字先于本质"
+date: 2023-08-31
+description: "Name Preceeds Essence"
+tags: ["张猪", "名字" ,"小狗","小猫"]
+Categories: ["文章", "中文"]
 summary: "王狗有一次问我，你到底是谁，我想了想，说我是打工的。"
 ---
 
