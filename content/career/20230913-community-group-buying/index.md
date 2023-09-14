@@ -28,6 +28,6 @@ There are two dominant features in community group-buying compared to the online
 ### What is community group-buying?
 
 
-### The Data Science Tasks in Community Group-Buying
+### Tasks in Community Group-Buying
 
-### The Data Science Solutions
+### Data Science Solutions
