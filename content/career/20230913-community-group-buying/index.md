@@ -30,4 +30,4 @@ There are two dominant features in community group-buying compared to the online
 
 ### The Data Science Tasks in Community Group-Buying
 
-### Related Statistics and Machine Learning Models
+### The Data Science Solutions
