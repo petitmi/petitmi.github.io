@@ -17,8 +17,8 @@
 
 [[main]]
   name = "Career"
-  url = "career"
-  weight = 10
+  pageRef = "career"
+  weight = 20
 
 #[[main]]
 #  name = "example sub-menu 1"
