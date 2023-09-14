@@ -2,10 +2,10 @@
 authors:
  - "Nyx"
 title: "Data Science In Group-Buying"
-date: 2023-09-12
+date: 2023-09-13
 description: ""
 tags: ["data science", "group-buying"]
-Categories: ["Article", "EN"]
+Categories: ["Article", "English"]
 summary: "There are two dominant features in group-buying compared to the online retail model: the first is pre-sale with next-day delivery, and the other is community pickup."
 ---
 
