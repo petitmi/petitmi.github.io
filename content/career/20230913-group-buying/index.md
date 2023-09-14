@@ -9,6 +9,10 @@ Categories: ["Article", "English"]
 summary: "There are two dominant features in group-buying compared to the online retail model: the first is pre-sale with next-day delivery, and the other is community pickup."
 ---
 
+As a novel online retail model, group-buying transforms individuals' grocery habits, as well as the supply chain, logistics, and warehousing.
+
+### Why do people change their daily grocery shopping habits?
+
 No one could have imagined that a minor news report about unattributed lung inflammation in December would evolve into an unexpected black swan event that would profoundly influence the destiny of humankind. COVID-19 disrupted the forward march of nations and individuals, or perhaps it disrupted the mutual tug-of-war among nations and individuals in a state of standstill.
 
 2019 the year was marked by the 70th anniversary of the founding of the People's Republic of China, the Hong Kong protests against the extradition bill, the intensification of the US-China trade war. And of course, there were other significant events in different regions, such as various wars in the Middle East and the devastating fire that consumed the Notre-Dame Cathedral in Paris, among many others. 
@@ -21,5 +25,8 @@ Working at a major online retail company and focusing on the group-buying busine
 
 There are two dominant features in group-buying compared to the online retail model: the first is pre-sale with next-day delivery, and the other is community pickup. Although this model is crucial during special situations like lockdown days, it also works well in normal daily life if the prices are low enough, and the items are diverse and of high quality.
 
-### What is group-buying
-TBC
+### What is group-buying?
+
+### The Data Science Tasks in Group-buying
+
+### Related Statistics and Machine Learning Models
