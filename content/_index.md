@@ -11,7 +11,7 @@ description: "黑鸟在树下 Blackbird under the tree"
 **邮箱｜email**: petitmi001#gmail.com
 
 
-> 如果你是招聘官，请来[这里](https://petitmi.com)（还没做)。\
-If you're a recruiter, come [here](https://petitmi.com) (not done yet).
+> 如果你是招聘官，请来[这里](https://petitmi.com/career)。\
+If you're a recruiter, come [here](https://petitmi.com/career) .
 
 ---
