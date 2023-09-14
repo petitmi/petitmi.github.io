@@ -24,7 +24,7 @@ autoSwitchAppearance = false
 [homepage]
   layout = "page" # valid options: page, profile, hero, card, background, custom
   homepageImage = "img/clown.png" # used in: hero, and card
-  showRecent = true
+  showRecent = false
   showRecentItems = 10
 
 [article]
