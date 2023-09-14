@@ -11,6 +11,6 @@ description: "黑鸟在树下 Blackbird under the tree"
 **邮箱｜email**: petitmi001#gmail.com
 
 
-> 本站主要记录我日有所思的文字性内容，有个人和职业两类。个人的记录在[Posts](https://petitmi.com/posts)中，以中文为主。包含数据科学在内的职业相关内容在[Career](https://petitmi.com/career)，以英文为主。\
-This site is a place of mind, featuring written content of my day-to-day thoughts, categorized into personal and professional sections. Personal reflection can be found in [Posts](https://petitmi.com/posts), primarily in Chinese. For content related to my profession, including topics such as data science, please refer to Career, will be mostly written in English.
+> 本站主要记录我日有所思的文字性内容，个人的内容记录在[Posts](https://petitmi.com/posts)中，以中文为主。包含数据科学在内的职业相关内容在[Career](https://petitmi.com/career)，以英文为主。\
+This site is a place of mind, featuring written content of my day-to-day thoughts. Personal reflection can be found in [Posts](https://petitmi.com/posts), primarily in Chinese. For content related to my profession, including topics such as data science, please refer to [Career](https://petitmi.com/career), will be mostly written in English.
 ---
