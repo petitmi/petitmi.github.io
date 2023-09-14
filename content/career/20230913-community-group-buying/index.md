@@ -23,7 +23,7 @@ In China, people were intermittently confined to their homes on a city-by-city b
 
 Working at a major online retail company and focusing on the community group-buying business allowed me to witness how community group-buying grew during the three years of Covid-19, when people were struggling with city lockdowns and economic devastation.
 
-There are two dominant features in community group-buying compared to the online retail model: the first is &&**pre-sale with next-day delivery**, and the other is **community pickup**. Although this model is crucial during special situations like lockdown days, it also works well in normal daily life *if the prices are low enough, and the items are diverse and of high quality*.
+There are two dominant features in community group-buying compared to the online retail model: the first is **pre-sale with next-day delivery**, and the other is **community pickup**. Although this model is crucial during special situations like lockdown days, it also works well in normal daily life *if the prices are low enough, and the items are diverse and of high quality*.
 
 ### What is community group-buying?
 
