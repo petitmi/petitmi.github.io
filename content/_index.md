@@ -19,9 +19,9 @@ description: "黑鸟在树下 Blackbird under the tree"
 
 **G’day, mate.** It's me, a mysticorgi (mysterious corgi) living in Western Canada. In the Myers-Briggs Type Indicator (MBTI), I identify as [INTP-T](https://www.16personalities.com/intp-personality). However, I sometimes transform among INFP and ENTP, which implies that I'm a contradictory individual who often goes against the grain. At times, I can be quite annoying. I'm not very shrewd, and I consider that a virtue.
 
-I'm fond of music that incorporates elements of blues, jazz, electronic, or space pop.\ 
-There's something about music with a waltz rhythm that inexplicably moves me.\ 
-I enjoy combat sports, especially the kind that takes place in the ring.\ 
+I'm fond of music that incorporates elements of blues, jazz, electronic, or space pop.\
+There's something about music with a waltz rhythm that inexplicably moves me.\
+I enjoy combat sports, especially the kind that takes place in the ring.\
 I like juicy things, which explains my love for rich-flavored Asian foods and comedies. But note, 'juicy' is different from 'oily'. \
 Besides, even I have good endurance, I hate activities that rely solely on perseverance, unless I don’t feel this way.
 
