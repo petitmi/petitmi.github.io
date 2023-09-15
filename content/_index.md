@@ -13,11 +13,11 @@ description: "黑鸟在树下 Blackbird under the tree"
 
 这里主要记录我日有所思的文字性内容，其中个人的感悟或者纯情绪抒发记录在[Posts](https://petitmi.com/posts)中，以中文为主。我的职业一直是围绕数据科学的，工作和学习花费了我巨量的生命，这里面存在需要“纯靠毅力坚持的东西”，但也有很多跨越后的感悟和所得，这些内容在[Career](https://petitmi.com/career)中，以英文书写。
 
-我的一些其他事实：\ 
-我喜欢布鲁斯、爵士、电子、太空流行之类元素的音乐，三拍子律动的音乐有时会不明所以地触动我。\
+关于我的一些其他事实：\
+喜欢布鲁斯、爵士、电子、太空流行之类元素的音乐，三拍子律动的音乐有时会不明所以地触动我。\
 喜欢对抗式搏击，就是在擂台上的那种。\
 喜欢多汁的感觉，所以喜欢味道丰富的亚洲食物和喜剧，但注意，多汁可不是油腻。\
-我讨厌很多需要纯靠毅力坚持的东西，除非我不认为做某件事是在坚持。
+虽然我耐力不错，但我讨厌需要纯靠毅力坚持的东西，除非我不觉得做某件事只是靠坚持。
 
 **G’day, mate.** It's me, a mysticorgi (mysterious corgi) living in Western Canada who often oscillates between contradictions and goes against the grain. I'm not very shrewd, and I consider that a virtue. In the Myers-Briggs Type Indicator (MBTI), I identify as [INTP-T](https://www.16personalities.com/intp-personality). However, I sometimes transform among INFP and ENTP, which implies that I'm a contradictory individual who often goes against the grain. 
 
@@ -25,9 +25,8 @@ I've always pondered what I'd leave behind in this world after I pass away. This
 
 Here, I document my reflections and thoughts, which can be primarily found in [Posts](https://petitmi.com/posts), written mostly in Chinese. My profession has always revolved around data science, which has consumed a significant portion of my life through my career and academic study. Within it, there are aspects that require sheer willpower to persevere, but still many excitements, insights from them. You can find this content under [Career](https://petitmi.com/career), penned in English.
 
-Some of my other facts: 
-I'm fond of music that incorporates elements of blues, jazz, electronic, or space pop.\
-There's something about music with a waltz rhythm that inexplicably moves me.\
+Some of my other facts:\
+I am fond of music that incorporates elements of blues, jazz, electronic, or space pop. There's something about music with a waltz rhythm that inexplicably moves me.\
 I enjoy combat sports, especially the kind that takes place in the ring.\
 I like juicy things, which explains my love for rich-flavored Asian foods and comedies. But note, 'juicy' is different from 'oily'. \
 Besides, even I have good endurance, I hate activities that rely solely on perseverance, unless I don’t feel this way.
