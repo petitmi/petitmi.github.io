@@ -11,7 +11,7 @@ summary: "There are two dominant features in group-buying compared to the online
 
 As a novel online retail model, community group-buying transforms individuals' grocery habits, as well as the supply chain, logistics, and warehousing.
 
-### Why do people change their daily grocery shopping habits?
+## Why do people change their daily grocery shopping habits?
 
 No one could have imagined that a minor news report about unattributed lung inflammation in December would evolve into an unexpected black swan event that would profoundly influence the destiny of humankind. COVID-19 disrupted the forward march of nations and individuals, or perhaps it disrupted the mutual tug-of-war among nations and individuals in a state of standstill.
 
@@ -25,7 +25,7 @@ Working at a major online retail company and focusing on the community group-buy
 
 There are two dominant features in community group-buying compared to the online retail model: the first is **pre-sale with next-day delivery**, and the other is **community pickup**. Although this model is crucial during special situations like lockdown days, it also works well in normal daily life *if the prices are low enough, and the items are diverse and of high quality*.
 
-### What is community group-buying?
+## What is community group-buying?
 
 Let's start with the giant Walmart. Walmart was founded in 1945, and it grew through chain stores and big box stores, eventually becoming an oligopoly in niche categories. Famous for its lowest prices, Walmart has succeeded in leveraging technology to transform its supply chain. On the demand side, what customers experience is a preference for coming to supermarkets like Walmart rather than convenience stores with higher prices. The reason behind this phenomenon is the automated equipment and systems introduced in multiple stages of the supply chain. This transformation has also resulted in numerous layoffs and career changes. 
 
@@ -33,9 +33,9 @@ Community group-buying is a retail business model where customers are accustomed
 
 *In a nutshell, the community group buying model combines the **Bulk Purchase Sorting** with **Pre-sale Arrangements**, allowing it to achieve **wholesale prices**, but customers don't need to purchase in **wholesale quantities***.
 
-### Tasks and Data Science Solutions in Community Group-Buying
+## Tasks and Data Science Solutions in Community Group-Buying
 
-#### 1. Sales Prediction
+### 1. Sales Prediction
 
 When it comes to sales prediction, strategies and goals vary depending on different factors.
 
@@ -47,7 +47,7 @@ Additionally, sales prediction tasks involve considerations of **time periods an
 
 Given the complexity of sales prediction and the multitude of factors influencing sales, different strategies are required for different aspects. To gain a broader perspective and account for numerous factors, we may turn to unexplainable models like deep learning models. Input features are derived from various aspects of user activities and the supply chain, as well as external factors like weather. We also heavily rely on correlation analysis, cluster analysis, and other explainably analytical methods to obtain features. Finally, once the structure of the prediction model is complete, we need to add time series analysis into it.
 
-#### 2. Purchase Optimization 
+### 2. Purchase Optimization 
 
 This part is commonly used in various e-commerce analysis models.To attract more customers and enhance their purchasing experience, it is essential to conduct user analysis, marketing analysis, and implement a personalized recommendation system.
 
@@ -55,7 +55,7 @@ Understanding the target customer base and identifying potential customers is cr
 
 When it comes to implementing a personalized recommendation system, Machine Learning Methods for prediction and ranking, as well as A/B Testing for evaluation, have reached a high level of maturity.
 
-#### 3. Loss Management
+### 3. Loss Management
 
 This part is like doing accounting. We compare the initial quantity and the final quantity at each stage and identify the factors contributing to significant losses. Once we have analyzed the results, we can employ additional management tools, such as real-time alerts, to intervene in the chain reaction caused by these losses.
 
@@ -63,7 +63,7 @@ Furthermore, it's crucial to proactively forecast and manage risk. During the CO
 
 Apart from these considerations, route optimization and inventory optimization should also be explored.
 
-#### 4. Quality Optimization
+### 4. Quality Optimization
 
 The community group-buying model offers lower prices and reasonable delivery times, which are its primary advantages. However, lower prices often coincide with lower product quality, which can deter regular customers.
 
