@@ -28,7 +28,7 @@ description: "黑鸟在树下 Blackbird under the tree"
         
 **嘿，伙计，** 是我,一只居住在加拿大西部的神基（神秘的柯基），矛盾波动、爱唱反调。我不精明，这是我的优点。在容格八维人格类型（MBTI）中击中[INTP-T](https://www.16personalities.com/intp-personality)，有时会变成INFP或ENTP。
 
-这里主要记录我日有所思的文字性内容，其中个人的感悟或者纯情绪抒发记录在[Juicy](https://petitmi.com/juicy)中。我的职业一直是围绕数据科学的，工作和学习花费了我巨量的生命，这里面存在需要“纯靠毅力坚持的东西”，但也有很多跨越后的感悟和所得，这些内容在[Bread](https://petitmi.com/bread)中。
+这里主要记录我日有所思的文字性内容，其中个人的感悟或者纯情绪抒发记录在[Juicy](https://petitmi.com/juicy)中。我的职业一直是围绕数据科学的，工作和学习花费了我巨量的生命，这里面存在需要“纯靠毅力坚持的东西”，但也有很多跨越后的感悟和所得，这些内容在[Bread](https://petitmi.com/bread)中。内容是由[中文](https:petitmi.com/categories/%E4%B8%AD%E6%96%87/)和[英文](https:petitmi.com/categories/english/)书写的，可以通过*Seeds-Categories*筛选。
 
 **关于我的一些事实：**\
 喜欢布鲁斯、爵士、电子、太空流行之类元素的音乐，三拍子律动的音乐有时会不明所以地触动我。\
@@ -42,7 +42,7 @@ description: "黑鸟在树下 Blackbird under the tree"
         <td> 
 **G’day, mate.** It's me, a mysticorgi (mysterious corgi) living in Western Canada who often oscillates between contradictions and goes against the grain. I'm not very shrewd, and I consider that a virtue. In the Myers-Briggs Type Indicator (MBTI), I identify as [INTP-T](https://www.16personalities.com/intp-personality). However, I sometimes transform among INFP and ENTP, which implies that I'm a contradictory individual who often goes against the grain. 
 
-Here, I document my reflections and thoughts, which can be primarily found in [Juicy](https://petitmi.com/juicy), written mostly in Chinese. My profession has always revolved around data science, which has consumed a significant portion of my life through my career and academic study. Within it, there are aspects that require sheer willpower to persevere, but still many excitements, insights from them. You can find this content under [Bread](https://petitmi.com/bread), penned in English.
+Here, I document my thoughts and beliefs, which can be primarily found in [Juicy](https://petitmi.com/juicy). My profession has always revolved around data science, which has consumed a significant portion of my life through my career and academic study. Within it, there are aspects that require sheer willpower to persevere, but still many excitements and insights from them. You can find this content under [Bread](https://petitmi.com/bread). Articles are written in [Chinese](https:petitmi.com/categories/%E4%B8%AD%E6%96%87/) and [English](https:petitmi.com/categories/english/), which can be filtered through *Seeds-Categories*.
 
 **Some of my other facts:**\
 I am fond of music that incorporates elements of blues, jazz, electronic, or space pop. There's something about music with a waltz rhythm that inexplicably moves me.\
