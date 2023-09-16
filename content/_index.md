@@ -26,7 +26,7 @@ description: "黑鸟在树下 Blackbird under the tree"
     <tr>
         <td>
         
-**嘿，伙计，** 是我,一只居住在加拿大西部的神基（神秘的柯基），矛盾波动、爱唱反调。我不精明，这是我的优点。在容格八维人格类型（MBTI）中击中[INTP-T](https://www.16personalities.com/intp-personality)，有时会变成INFP或ENTP。
+**嘿，伙计，** 是我，一只居住在加拿大西部的神基（神秘的柯基），矛盾波动、爱唱反调。我不精明，这是我的优点。在容格八维人格类型（MBTI）中击中[INTP-T](https://www.16personalities.com/intp-personality)，有时会变成INFP或ENTP。
 
 这里主要记录我日有所思的文字性内容，其中个人的感悟或者纯情绪抒发记录在[Juicy](https://petitmi.com/juicy)中。我的职业一直是围绕数据科学的，工作和学习花费了我巨量的生命，这里面存在需要“纯靠毅力坚持的东西”，但也有很多跨越后的感悟和所得，这些内容在[Bread](https://petitmi.com/bread)中。内容是由[中文](https:petitmi.com/categories/%E4%B8%AD%E6%96%87/)和[英文](https:petitmi.com/categories/english/)书写的，可以通过*Seeds-Categories*筛选。
 
