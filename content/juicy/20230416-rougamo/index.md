@@ -9,7 +9,23 @@ categories: ["诗", "中文", "Poem", "English"]
 summary: "老李从早上5点就开始忙活了, 搅了搅刚炖上的腊汁肉, 在烤炉上放上揉好的面, 为了这个城市新移民的口味, 他还切起了青椒。"
 ---
 
-<!-- ## 夹了青椒的肉夹馍 -->
+<style>
+    table, th, td {
+        border: none;
+    }
+    th, td {
+        padding: 10px;
+    }
+    td:first-child {
+        border-right: 1px solid #000; /* Vertical border for the first column */
+    }
+</style>
+
+## Shaanxi Rougamo With Green Peppers
+<table>
+    <tr>
+        <td>
+
 老李从早上5点就开始忙活了\
 搅了搅刚炖上的腊汁肉\
 在烤炉上放上揉好的面\
@@ -38,8 +54,9 @@ summary: "老李从早上5点就开始忙活了, 搅了搅刚炖上的腊汁肉,
 不管外国游客多喜欢吃\
 因为意大利人开店不是缺钱\
 是为了满足自己的兴趣爱好呢
+</td>
+<td>
 
-## Shaanxi Rougamo With Green Peppers
 Old Lee has been working since 5:00 am\
 Stirring the freshly simmered meat\
 Putting the kneaded dough on the grill\
@@ -68,3 +85,6 @@ And he would never put pineapple in it\
 No matter how much foreign tourists like to eat\
 Because Italians don't open stores for lack of money\
 It is to meet their own hobby it
+</td>
+</tr>
+</table>

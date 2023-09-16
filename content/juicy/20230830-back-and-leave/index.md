@@ -8,6 +8,22 @@ tags : ["诗","西安", "告别"]
 categories : ["Poem", "诗", "English", "中文"]
 summary: "在我死去后魂归的时刻，我会选择西安的城墙。我孤独的灵魂，不会再找陪伴。"
 ---
+<style>
+    table, th, td {
+        border: none;
+    }
+    th, td {
+        padding: 10px;
+    }
+    td:first-child {
+        border-right: 1px solid #000; /* Vertical border for the first column */
+    }
+</style>
+
+
+<table>
+    <tr>
+        <td>
 
 在我死去后魂归的时刻\
 我会选择西安的城墙\
@@ -21,6 +37,9 @@ summary: "在我死去后魂归的时刻，我会选择西安的城墙。我孤�
 你们在我脑中刻下了那么多场景\
 我轻轻走开
 
+</td>
+<td>
+
 At the moment my soul returns after I die\
 I will choose the Xi'an City Wall\
 My solitary spirit\
@@ -32,3 +51,9 @@ Perhaps distressed in dimly lit rooms\
 I gaze at you\
 So many scenes etched in my mind\
 I quietly walk away
+
+</td>
+</tr>
+</table>
+
+

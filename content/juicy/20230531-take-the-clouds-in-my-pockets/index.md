@@ -8,6 +8,22 @@ tags: ["打工"]
 categories: ["诗", "poem", "English", "中文"]
 summary: "把云朵揽入口袋里，捏碎了变成许多星辰。 华丽又锋利，就像你曾经说过的话一样。"
 ---
+<style>
+    table, th, td {
+        border: none;
+    }
+    th, td {
+        padding: 10px;
+    }
+    td:first-child {
+        border-right: 1px solid #000; /* Vertical border for the first column */
+    }
+</style>
+
+
+<table>
+    <tr>
+        <td>
 
 把云朵揽入口袋里，捏碎了变成许多星辰\
 华丽又锋利，就像你曾经说过的话一样\
@@ -26,6 +42,8 @@ summary: "把云朵揽入口袋里，捏碎了变成许多星辰。 华丽又锋
 忙碌地同情每一个人，忙碌于呵护和赞美自己
 
 同情一个在别人的期望和自己的期望里，酒后驾驶的人
+</td>
+<td>
 
 Take the clouds and tuck them into my pocket, crush them into numerous stars.\
 Splendid and sharp, just like the words you once said.\
@@ -44,3 +62,7 @@ Imagine once more,\
 Busy sympathizing with every person, busy nurturing and praising oneself.
 
 Sympathizing with someone who, within the expectations of others and their own, drove while intoxicated.
+  
+</td>
+</tr>
+</table>
