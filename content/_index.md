@@ -92,23 +92,23 @@ img {
   </div>
 
   <div class="mySlides">
-    <img src="self.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="Two Me In A Time. Souce: Magifrenchie, and Peacinu">
+    <img src="self.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(2)" alt="Two Me In A Time. Souce: Magifrenchie, and Peacinu">
   </div>
 
   <div class="mySlides">
-    <img src="3dogs.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="Mysticorgi, Magifrenchie, and Peacinu">
+    <img src="3dogs.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(3)" alt="Mysticorgi, Magifrenchie, and Peacinu">
   </div>
 
   <div class="mySlides">
-    <img src="xian_night.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="Some Night In Xi'an">
+    <img src="xian_night.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(4)" alt="Some Night In Xi'an">
   </div>
 
   <div class="mySlides">
-    <img src="wolf.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="Wolf In A Hole Watching Outward">
+    <img src="wolf.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(5)" alt="Wolf In A Hole Watching Outward">
   </div>
 
   <div class="mySlides">
-    <img src="dontpanic.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="Precious Drawing Of Don't Panic. Source: Magifrenchie">
+    <img src="dontpanic.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(6)" alt="Precious Drawing Of Don't Panic. Source: Magifrenchie">
   </div>
     
   <a class="prev" onclick="plusSlides(-1)">❮</a>
