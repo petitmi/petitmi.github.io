@@ -87,39 +87,41 @@ img {
 
 <div class="container">
   <div class="mySlides">
-    <img src="me_duck.jpg" style="width:100%">
+    <img src="me_duck.jpg"  style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="Me And A Canadian Duck">
+
   </div>
 
   <div class="mySlides">
-    <img src="self.jpg" style="width:100%">
+    <img src="self.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="Two Me In A Time From Friends">
   </div>
 
   <div class="mySlides">
-    <img src="3dogs.jpg" style="width:100%">
-  </div>
-
-<div class="mySlides">
-    <img src="xian_night.jpg" style="width:100%">
+    <img src="3dogs.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="Mystericorgi, Magicafrenchies, and Peacinu">
   </div>
 
   <div class="mySlides">
-    <img src="wolf.jpg" style="width:100%">
+    <img src="xian_night.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="Some Night In Xi'an">
   </div>
 
   <div class="mySlides">
-    <img src="dontpanic.jpg" style="width:100%">
+    <img src="wolf.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="A Wolf In A Hole Watching Outside">
+  </div>
+
+  <div class="mySlides">
+    <img src="dontpanic.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="Precious Drawing Of Don't Panic">
   </div>
     
   <a class="prev" onclick="plusSlides(-1)">❮</a>
   <a class="next" onclick="plusSlides(1)">❯</a>
 
-  <!-- <div class="caption-container">ff
+  <div class="caption-container">
     <p id="caption"></p>
-  </div> -->
+  </div>
+
+
 </div>
 
 
-    
 
 <table class="translation">
     <tr>
