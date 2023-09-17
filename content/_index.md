@@ -92,7 +92,7 @@ img {
   </div>
 
   <div class="mySlides">
-    <img src="self.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="Two Me In A Time From Friends">
+    <img src="self.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="Two Me In A Time. Souce: Magifrenchie, and Peacinu">
   </div>
 
   <div class="mySlides">
@@ -104,11 +104,11 @@ img {
   </div>
 
   <div class="mySlides">
-    <img src="wolf.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="A Wolf In A Hole Watching Outside">
+    <img src="wolf.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="Wolf In A Hole Watching Outward">
   </div>
 
   <div class="mySlides">
-    <img src="dontpanic.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="Precious Drawing Of Don't Panic">
+    <img src="dontpanic.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="Precious Drawing Of Don't Panic. Source: Magifrenchie">
   </div>
     
   <a class="prev" onclick="plusSlides(-1)">❮</a>
