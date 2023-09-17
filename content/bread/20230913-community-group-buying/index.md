@@ -31,7 +31,18 @@ Let's start with the giant Walmart. Walmart was founded in 1945, and it grew thr
 
 Community group-buying is a retail business model where customers are accustomed to doing groceries online and will be able to pick them up the next day thanks to the **effective and efficient supply chain**. On this online platform, users can select all kinds of items, especially fresh produce, for tomorrow's pickup. Unlike the traditional big-box approach, products are not sorted and packaged for consumers all at once. Instead, they undergo distributed sorting through shared warehouses, central warehouses, grid warehouses, and community sites. Products are only categorized into individual portions once they reach the community sites. During the previous transportation processes, they are consolidated. Additionally, shipments and redistributions between different regions occur based on sales or demand predictions. 
 
-*In a nutshell, the community group buying model combines the **Bulk Purchase Sorting** with **Pre-sale Model**, allowing it to achieve **wholesale prices**, but customers don't need to purchase in **wholesale quantities***.
+<table class="translation">
+    <tr>
+        <td style="vertical-align: middle;">
+        <img src="process.jpg" alt="process" style="height:400px"/>
+        </td>
+        <td style="vertical-align: middle; width: 50%">
+        <p>The fulfillment process for community group-buying involves the transportation of primarily produced products from suppliers to nearby Shared Warehouses or Central Warehouses. Shared Warehouses function as hubs for Central Warehouses, which typically cover larger regions. Subsequently, the products are transported to Grid Warehouses strategically located in medium-sized areas. Finally, on the day of fulfillment, the products are delivered to Community Collection Points for customers to pick up.</p>
+        </td>
+    </tr>
+</table>
+
+In a nutshell, the community group buying model combines the **Bulk Purchase Sorting** with **Pre-sale Model**, allowing it to achieve **wholesale prices**, but customers don't need to purchase in **wholesale quantities**.
 
 ## Tasks and Data Science Solutions in Community Group-Buying
 

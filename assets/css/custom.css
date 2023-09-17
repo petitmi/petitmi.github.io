@@ -10,7 +10,7 @@ table.translation td {
 }
 
 table.translation td:first-child {
-    border-right: 1px solid #000; 
+    border-right: 1px rgba(255, 0, 0, .99);
 }
 
 
