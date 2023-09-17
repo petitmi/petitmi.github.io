@@ -96,7 +96,7 @@ img {
   </div>
 
   <div class="mySlides">
-    <img src="3dogs.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="Mystericorgi, Magicafrenchies, and Peacinu">
+    <img src="3dogs.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="Mysticorgi, Magifrenchie, and Peacinu">
   </div>
 
   <div class="mySlides">
