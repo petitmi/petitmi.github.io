@@ -152,7 +152,7 @@ I like juicy things, which explains my love for rich-flavored Asian foods and co
 Besides, even I have good endurance, I hate activities that rely solely on perseverance, unless I don’t feel this way.\
 email: petitmi001#gmail.com
 
-I've always pondered what I'd leave behind in this world after I pass away. This leads me to the songs I've composed, as well as my writtings. Yet, Magicdog Wang once told me that nobody would be interested in reading my works after my demise. This left me slightly dejected, but I soon rebounded for some reason. Regardless, I still yearn to write, which is why this space exists. The name of this site originates from a dream of mine. Beneath an oak tree, I conducted a funeral for a seemingly fragile and delicate blackbird. I cradled it and placed it into a wooden coffin, then erected a wooden tombstone.
+I've always pondered what I'd leave behind in this world after I pass away. This leads me to the songs I've composed, as well as my writtings. Yet, Magifrenchie once told me that nobody would be interested in reading my works after my demise. This left me slightly dejected, but I soon rebounded for some reason. Regardless, I still yearn to write, which is why this space exists. The name of this site originates from a dream of mine. Beneath an oak tree, I conducted a funeral for a seemingly fragile and delicate blackbird. I cradled it and placed it into a wooden coffin, then erected a wooden tombstone.
         </td>
     </tr>
 </table>

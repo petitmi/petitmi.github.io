@@ -12,3 +12,18 @@ table.translation td {
 table.translation td:first-child {
     border-right: 1px solid #000; 
 }
+
+
+
+
+  @media (min-width: 853px) {
+    .thumbnail {
+      min-width: 200px;
+      min-height: 100px;
+      height: auto;
+    }
+  
+    .article {
+      flex-wrap: nowrap;
+    }
+  }
