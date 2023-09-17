@@ -1,0 +1,14 @@
+table.translation,
+table.translation th,
+table.translation td {
+    border: none;
+}
+
+table.translation th,
+table.translation td {
+    padding: 10px;
+}
+
+table.translation td:first-child {
+    border-right: 1px solid #000; 
+}

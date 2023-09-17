@@ -8,20 +8,8 @@ tags : ["诗","西安", "告别"]
 categories : ["Poem", "诗", "English", "中文"]
 summary: "在我死去后魂归的时刻，我会选择西安的城墙。我孤独的灵魂，不会再找陪伴。"
 ---
-<style>
-    table, th, td {
-        border: none;
-    }
-    th, td {
-        padding: 10px;
-    }
-    td:first-child {
-        border-right: 1px solid #000; /* Vertical border for the first column */
-    }
-</style>
 
-
-<table>
+<table class="translation">
     <tr>
         <td>
 

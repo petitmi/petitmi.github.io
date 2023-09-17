@@ -8,20 +8,8 @@ tags: ["打工"]
 categories: ["诗", "poem", "English", "中文"]
 summary: "把云朵揽入口袋里，捏碎了变成许多星辰。 华丽又锋利，就像你曾经说过的话一样。"
 ---
-<style>
-    table, th, td {
-        border: none;
-    }
-    th, td {
-        padding: 10px;
-    }
-    td:first-child {
-        border-right: 1px solid #000; /* Vertical border for the first column */
-    }
-</style>
 
-
-<table>
+<table class="translation">
     <tr>
         <td>
 

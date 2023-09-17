@@ -1,28 +1,127 @@
 ---
 # title: "Nyx"
 description: "黑鸟在树下 Blackbird under the tree"
----
-# 黑鸟在树下 Blackbird under the tree
-<!-- # <span style="color:#6b21a8">黑鸟在树下 Blackbird under the tree</span>. -->
 
+---
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
 
 <style>
+body {
+  font-family: Arial;
+  margin: 0;
+}
 
-    table, th, td {
-        border: none;
-    }
+* {
+  box-sizing: border-box;
+}
 
-    th, td {
-        padding: 10px;
-    }
+img {
+  vertical-align: middle;
+  object-fit: contain;
+  height: 300px; /* Your preferred width */
+  width: auto;
 
-    td:first-child {
-        border-right: 1px solid #000; /* Vertical border for the first column */
-    }
+}
+
+/* Position the image container (needed to position the left and right arrows) */
+.container {
+  position: relative;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Add a pointer when hovering over the thumbnail images */
+.cursor {
+  cursor: pointer;
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+  background-color: rgba(192,192,192, 0.8);
+  cursor: pointer;
+  position: absolute;
+  top: 40%;
+  width: auto;
+  padding: 16px;
+  margin-top: -50px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Container for image text */
+.caption-container {
+  text-align: center;
+  background-color: #222;
+  /* padding: 2px 10px; */
+  color: white;
+}
 </style>
 
+<!-- ######################### -->
 
-<table>
+<body>
+
+# 黑鸟在树下 Blackbird under the tree
+
+<div class="container">
+  <div class="mySlides">
+    <img src="me_duck.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <img src="self.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <img src="3dogs.jpg" style="width:100%">
+  </div>
+
+<div class="mySlides">
+    <img src="xian_night.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <img src="wolf.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <img src="dontpanic.jpg" style="width:100%">
+  </div>
+    
+  <a class="prev" onclick="plusSlides(-1)">❮</a>
+  <a class="next" onclick="plusSlides(1)">❯</a>
+
+  <!-- <div class="caption-container">ff
+    <p id="caption"></p>
+  </div> -->
+</div>
+
+
+    
+
+<table class="translation">
     <tr>
         <td>
         
@@ -42,7 +141,7 @@ description: "黑鸟在树下 Blackbird under the tree"
         <td> 
 **G’day, mate.** It's me, a mysticorgi (mysterious corgi) living in Western Canada who often oscillates between contradictions and goes against the grain. I'm not very shrewd, and I consider that a virtue. In the Myers-Briggs Type Indicator (MBTI), I identify as [INTP-T](https://www.16personalities.com/intp-personality). However, I sometimes transform among INFP and ENTP, which implies that I'm a contradictory individual who often goes against the grain. 
 
-Here, I document my thoughts and beliefs, which can be primarily found in [Juicy](https://petitmi.com/juicy). My profession has always revolved around data science, which has consumed a significant portion of my life through my career and academic study. Within it, there are aspects that require sheer willpower to persevere, but still many excitements and insights from them. You can find this content under [Bread](https://petitmi.com/bread). Articles are written in [Chinese](https:petitmi.com/categories/%E4%B8%AD%E6%96%87/) and [English](https:petitmi.com/categories/english/), which can be filtered through *Seeds-Categories*.
+Here, I document my thoughts and beliefs, which can be primarily found in [Juicy](https://petitmi.com/juicy). My profession has always revolved around data science, which has consumed a huge portion of my life through my career and academic study. Within it, there are aspects that require sheer willpower to persevere, but still many excitements and insights from them. You can find this content under [Bread](https://petitmi.com/bread). Articles are written in [Chinese](https:petitmi.com/categories/%E4%B8%AD%E6%96%87/) and [English](https:petitmi.com/categories/english/), which can be filtered through *Seeds-Categories*.
 
 **Some of my other facts:**\
 I am fond of music that incorporates elements of blues, jazz, electronic, or space pop. There's something about music with a waltz rhythm that inexplicably moves me.\
@@ -56,8 +155,37 @@ I've always pondered what I'd leave behind in this world after I pass away. This
     </tr>
 </table>
 
+<script>
+let slideIndex = 1;
+showSlides(slideIndex);
 
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
 
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  let i;
+  let slides = document.getElementsByClassName("mySlides");
+  let dots = document.getElementsByClassName("demo");
+  let captionText = document.getElementById("caption");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+  captionText.innerHTML = dots[slideIndex-1].alt;
+}
+</script>
+</body>
 
 
 

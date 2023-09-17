@@ -9,20 +9,9 @@ categories: ["诗", "中文", "Poem", "English"]
 summary: "老李从早上5点就开始忙活了, 搅了搅刚炖上的腊汁肉, 在烤炉上放上揉好的面, 为了这个城市新移民的口味, 他还切起了青椒。"
 ---
 
-<style>
-    table, th, td {
-        border: none;
-    }
-    th, td {
-        padding: 10px;
-    }
-    td:first-child {
-        border-right: 1px solid #000; /* Vertical border for the first column */
-    }
-</style>
 
 ## Shaanxi Rougamo With Green Peppers
-<table>
+<table  class="translation">
     <tr>
         <td>
 
