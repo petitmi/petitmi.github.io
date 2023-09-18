@@ -94,7 +94,7 @@ img {
   </div>
 
   <div class="mySlides">
-    <img src="gallery/3dogs.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(3)" alt="Magifrenchie, Mysticorgi and Peacinu">
+    <img src="gallery/3dogs.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(3)" alt="Magifrenchie, Mysticorgi and Peacisbar">
   </div>
 
   <div class="mySlides">
