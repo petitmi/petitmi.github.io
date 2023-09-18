@@ -3,9 +3,7 @@
 description: "黑鸟在树下 Blackbird under the tree"
 
 ---
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-</head>
+
 
 <style>
 body {
@@ -87,28 +85,28 @@ img {
 
 <div class="container">
   <div class="mySlides">
-    <img src="me_duck.jpg"  style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="Me And A Canadian Duck">
+    <img src="gallery/me_duck.jpg"  style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="Me And A Canadian Duck">
 
   </div>
 
   <div class="mySlides">
-    <img src="self.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(2)" alt="Two Me In A Time. Souce: Magifrenchie, and Peacinu">
+    <img src="gallery/self.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(2)" alt="Two Me In A Time. Souce: Magifrenchie, and Peacinu">
   </div>
 
   <div class="mySlides">
-    <img src="3dogs.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(3)" alt="Mysticorgi, Magifrenchie, and Peacinu">
+    <img src="gallery/3dogs.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(3)" alt="Magifrenchie, Mysticorgi and Peacinu">
   </div>
 
   <div class="mySlides">
-    <img src="xian_night.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(4)" alt="Some Night In Xi'an">
+    <img src="gallery/xian_night.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(4)" alt="Some Night In Xi'an">
   </div>
 
   <div class="mySlides">
-    <img src="wolf.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(5)" alt="Wolf In A Hole Watching Outward">
+    <img src="gallery/wolf.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(5)" alt="Wolf In A Hole Watching Outward">
   </div>
 
   <div class="mySlides">
-    <img src="dontpanic.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(6)" alt="Precious Drawing Of Don't Panic. Source: Magifrenchie">
+    <img src="gallery/dontpanic.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(6)" alt="Precious Drawing Of Don't Panic. Source: Magifrenchie">
   </div>
     
   <a class="prev" onclick="plusSlides(-1)">❮</a>

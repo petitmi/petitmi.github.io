@@ -23,7 +23,7 @@ In China, people were intermittently confined to their homes on a city-by-city b
 
 Working at a major online retail company and focusing on the community group-buying business allowed me to witness how community group-buying grew during the three years of Covid-19, when people were struggling with city lockdowns and economic devastation.
 
-There are two dominant features in community group-buying compared to the online retail model: the first is **pre-sale with next-day delivery**, and the other is **community pickup**. Although this model is crucial during special situations like lockdown days, it also works well in normal daily life *if the prices are low enough, and the items are diverse and of high quality*.
+There are two dominant features in community group-buying compared to the online retail model: the first is **pre-sale with next-day delivery**, and the other is **community pickup**. Although this model is crucial during special situations like lockdown days, it also works well in normal daily life if the prices are low enough, and the items are diverse and of high quality.
 
 ## What is community group-buying?
 
@@ -54,17 +54,17 @@ When it comes to sales prediction, strategies and goals vary depending on differ
 
 Nevertheless, when dealing with sales predictions at **hierarchical regional and categorical levels**, the goal of accuracy becomes more crucial. This level of accuracy directly influences immediate decision-making and specific actions, and any decrease in accuracy can result in significant cost increases. Therefore, the sales prediction in both niche regions and categories is usually the most important in this section.
 
-Additionally, sales prediction tasks involve considerations of **time periods and granularity**. *Real-time and day-by-day forecasting* is essential. For longer timeframes, such as week-to-week or month-to-month predictions, aggregating the day-by-day results can provide solutions.
+Additionally, sales prediction tasks involve considerations of **time periods and granularity**. Real-time and day-by-day forecasting is essential. For longer timeframes, such as week-to-week or month-to-month predictions, aggregating the day-by-day results can provide solutions.
 
-Given the complexity of sales prediction and the multitude of factors influencing sales, different strategies are required for different aspects. To gain a broader perspective and account for numerous factors, we may turn to *unexplainable models like deep learning models*. Input features are derived from various aspects of user activities and the supply chain, as well as external factors like weather. We also heavily rely on *correlation analysis, cluster analysis, and other explainably analytical methods* to obtain features. Finally, once the structure of the prediction model is complete, we need to add time series analysis into it.
+Given the complexity of sales prediction and the multitude of factors influencing sales, different strategies are required for different aspects. To gain a broader perspective and account for numerous factors, we may turn to unexplainable models like deep learning models. Input features are derived from various aspects of user activities and the supply chain, as well as external factors like weather. We also heavily rely on correlation analysis, cluster analysis, and other explainably analytical methods to obtain features. Finally, once the structure of the prediction model is complete, we need to add time series analysis into it.
 
 ### 2. Purchase Optimization 
 
 This part is commonly used in various e-commerce analysis models. To attract more customers and enhance their purchasing experience, it is essential to conduct user analysis, marketing analysis, and implement a personalized recommendation system.
 
-Understanding the **target customer base** and identifying **potential customers** is crucial. User segmentation based on factors such as occupation and consumption habits allows us to distinguish between existing customers and potential ones. Managing the user lifecycle can be achieved through the AARRR model, which stands for *Acquisition, Activation, Retention, Referral, and Revenue*. This model has been extensively researched and is a valuable tool. Additionally, specific *sub-analyses like Traffic Source Analysis, Conversion Rate Analysis, and Repeat Purchase Analysis* can be applied.
+Understanding the **target customer base** and identifying **potential customers** is crucial. User segmentation based on factors such as occupation and consumption habits allows us to distinguish between existing customers and potential ones. Managing the user lifecycle can be achieved through the AARRR model, which stands for Acquisition, Activation, Retention, Referral, and Revenue. This model has been extensively researched and is a valuable tool. Additionally, specific sub-analyses like Traffic Source Analysis, Conversion Rate Analysis, and Repeat Purchase Analysis can be applied.
 
-When it comes to implementing a personalized recommendation system, *Machine Learning Methods for prediction and ranking, as well as A/B Testing for evaluation*, have reached a high level of maturity.
+When it comes to implementing a personalized recommendation system, Machine Learning Methods for prediction and ranking, as well as A/B Testing for evaluation, have reached a high level of maturity.
 
 ### 3. Loss Management
 
@@ -72,17 +72,17 @@ This part is like doing accounting. We compare the ***initial quantity** and the
 
 Furthermore, it's crucial to proactively **forecast and manage risk**. Risks originate from both external and internal environments, such as weather, politics, and internal corruption, with varying degrees and impacts. During the COVID-19 pandemic, the highest risk factor was regional lockdowns, which could result in overstocking or excessive demand fluctuations.
 
-Apart from these considerations, **route optimization**, including *geodata analysis*, and **inventory optimization**, including *dynamic programming*, should also be explored.
+Apart from these considerations, **route optimization**, including *geodata analysis*, and **inventory optimization**, including **dynamic programming**, should also be explored.
 
 ### 4. Quality Optimization
 
 The community group-buying model offers lower prices and reasonable delivery times, which are its primary advantages. However, lower prices often coincide with lower product quality, which can deter regular customers.
 
-To implement quality analysis, the first step is to establish an indicator that reflects the quality status. The most common indicator is the **refund rate**, which calculates the number of refunds for SKUs, orders, or users. It's caliber is *the number of SKUs/orders/users returned divided by the total number of sales/fulfillments on the date of sale/date of fulfillment*.
+To implement quality analysis, the first step is to establish an indicator that reflects the quality status. The most common indicator is the **refund rate**, which calculates the number of refunds for SKUs, orders, or users. Its caliber is {{< katex >}}\\(\frac{returned \enspace SKUs/orders/users}{sales/fulfillments \enspace on \enspace the \enspace fulfilling \enspace day}\\).
 
 However, this indicator has a **latency** issue. Consider a scenario where you purchase a box of grapes, only to discover two days later that they are spoiled and need to be returned. Due to your schedule, it takes another day before you can return the item. This results in a three-day lag in the indicator. The indicator becomes accurate and stable only after the refund window has closed.
 
-In this context, the second step involves **revising or predicting** this refund rate indicator to solve the latency issue. Initially, basic *time series analysis* can be employed for revision. However, as the business matures, more *advanced machine learning* and *causal inference methods* are required for prediction.
+In this context, the second step involves **revising or predicting** this refund rate indicator to solve the latency issue. Initially, basic time series analysis can be employed for revision. However, as the business matures, more advanced machine learning and causal inference methods are required for prediction.
 
 Basically, when predicting this indicator, we have already been engaged in the quality analysis. We analyzes **suppliers** and different **segments of the supply chain** to identify the key factors influencing product quality.
 
