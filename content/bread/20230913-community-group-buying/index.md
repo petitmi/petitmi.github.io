@@ -1,7 +1,7 @@
 ---
 authors:
  - "Nyx"
-title: "Data Science In Community Group-Buying"
+title: "Data Science In Community Group-Buying, Especially Its Supply Chain"
 date: 2023-09-13
 description: ""
 tags: ["data science", "community group-buying"]
