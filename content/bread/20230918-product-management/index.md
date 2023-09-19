@@ -1,10 +1,10 @@
 ---
 authors:
  - "Nyx"
-title: "Takeaways In Project Management"
+title: "My Thoughts On Project Management"
 date: 2023-09-18
 description: ""
-tags: ["Project Management", ""]
+tags: ["Project Management"]
 Categories: ["Article", "English"]
 summary: "Profit estimation, revisit the company's mission, deal with tradeoffs, cooperation vs battle"
 ---
