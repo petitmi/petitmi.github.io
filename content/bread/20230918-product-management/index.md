@@ -6,7 +6,7 @@ date: 2023-09-18
 description: ""
 tags: ["Project Management"]
 Categories: ["Article", "English"]
-summary: "Profit estimation, revisit the company's mission, deal with tradeoffs, cooperation vs battle"
+summary: "More comprehensive experiences may have been summarized elsewhere, but here's my first-hand insight. About profit estimation, company's mission, tradeoffs and coorperations."
 ---
 
 ## What's the profit? Or is it a bet?
