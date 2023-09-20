@@ -8,6 +8,15 @@ tags: ["张猪", "名字" ,"小狗","小猫"]
 Categories: ["文章", "中文"]
 summary: "王狗有一次问我，你到底是谁，我想了想，选择了一个让我无比挣扎的重要标签说，我是打工的。"
 ---
+<div id="google_translate_element"></div>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 朋友帮ta的朋友养猫，是一只折耳猫名字叫奥利奥。朋友又说自己家里还有一只美短名字也叫奥利奥。
 <!-- ![Orea the Scottish Fold](ScottishFold.jpg =250x) -->

@@ -8,6 +8,15 @@ tags: ["COVID"]
 Categories: ["文章", "中文"]
 summary: "从武汉封城开始，时间就如被加速了一般。"
 ---
+<div id="google_translate_element"></div>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 ### 被关在家里的人们
 

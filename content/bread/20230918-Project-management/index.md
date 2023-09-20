@@ -8,6 +8,15 @@ tags: ["Project Management"]
 Categories: ["Article", "English"]
 summary: "More comprehensive experiences may have been summarized elsewhere, but here's my first-hand insight. About profit estimation, company's mission, tradeoffs and coorperations."
 ---
+<div id="google_translate_element"></div>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 ## What's the profit? Or is it a bet?
 **Consistent and stable profits are the backbone of business survival.** Without an elaborate estimation of profit, the project is a gamble. While sometimes a brave jump in the fog is a chance for business success, most of the time we need to fight for survival.

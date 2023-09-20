@@ -9,6 +9,16 @@ Categories: ["Article", "English"]
 summary: "There are two dominant features in group-buying compared to the online retail model: the first is pre-sale with next-day delivery, and the other is community pickup."
 ---
 
+<div id="google_translate_element"></div>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
 As a novel online retail model, community group-buying transforms individuals' grocery habits, as well as the supply chain, logistics, and warehousing. This business model combines the Bulk Purchase Sorting with Pre-sale Model, allowing it to achieve wholesale prices, but customers don't need to purchase in wholesale quantities. The key factor to the success of this model lies in the optimization of the supply chain. A management and visualization system, constructed with various precise, efficient, and sophisticated data science techniques, makes this possible.
 
 ## Why do people change their daily grocery shopping habits?

@@ -8,6 +8,15 @@ tags: ["天外来客"]
 Categories: ["文章", "中文"]
 summary: "你意识到这是异世界的天外来客在和你对话。"
 ---
+<div id="google_translate_element"></div>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 你在两片农田中的小径骑着自行车，远处是夕阳渲染的红色天空和绵延的山。你看到一个小点就在两个山之间，来不及反应的时间，这个小点瞬间跳跃到你面前。你眼前突然一片强光一样的白，仍在骑行的你却感觉不到自行车，只能惯性式的双脚转圈，双手把着一个不存在的车把手。
 
