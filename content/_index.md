@@ -120,37 +120,41 @@ img {
 </div>
 
 
-
 <table class="translation">
     <tr>
         <td>
-        
-**嘿，伙计，** 是我，一只居住在加拿大西部的神基（神秘的柯基），矛盾波动、爱唱反调。我不精明，这是我的优点。在容格八维人格类型（MBTI）中击中[INTP-T](https://www.16personalities.com/intp-personality)，有时会变成INFP或ENTP。
 
-这里主要记录我日有所思的文字性内容，其中个人的感悟或者纯情绪抒发记录在[Juicy](https://petitmi.com/juicy)中。我的职业一直是围绕数据科学的，工作和学习花费了我巨量的生命，这里面存在需要“纯靠毅力坚持的东西”，但也有很多跨越后的感悟和所得，这些内容在[Bread](https://petitmi.com/bread)中。内容是由[中文](https:petitmi.com/categories/%E4%B8%AD%E6%96%87/)和[英文](https:petitmi.com/categories/english/)书写的，可以通过*Seeds-Categories*筛选。
+**嘿，伙计。** 来来来，里面坐,是什么风把你吹来了。在这儿，以数据科学和商业为主职业感悟在[Bread](https://petitmi.com/bread)中。其他的在[Juicy](https://petitmi.com/juicy)里，包括情感夜话、都市传说、爱的教育和其他所有。内容是由[中文](https:petitmi.com/categories/%E4%B8%AD%E6%96%87/)和[英文](https:petitmi.com/categories/english/)书写的，可以通过*Seeds-Categories*筛选。
 
-**关于我的一些事实：**\
-喜欢布鲁斯、爵士、电子、太空流行之类元素的音乐，三拍子律动的音乐有时会不明所以地触动我。\
-喜欢对抗式搏击，就是在擂台上的那种。\
-喜欢多汁的感觉，所以喜欢味道丰富的亚洲食物和喜剧，但注意，多汁可不是油腻。\
-虽然我耐力不错，但我讨厌需要纯靠毅力坚持的东西，除非我不觉得做某件事只是靠坚持。\
-电子邮箱: petitmi001#gmail.com
+**关于我的一些事实：**
+- 我有很多[名字](/juicy/20230831-name-preceeds-essence/)。中文名：张雨晨；英文名：Nyx；外号：弥弥子、张狗以及其他不愿展示在这里的。
+- 当创作的时候我有一种存在感。感受感受也出现在小时候下棋、与人搏击对抗等等。
+- 喜欢布鲁斯、爵士、电子、太空流行之类元素的音乐，三拍子律动的音乐有时会不明所以地触动我。
+- 喜欢多汁的感觉，在我看来亚洲食物和喜剧具有这种特征。但注意，多汁可不是油腻。
+- “黑鸟在树下”源自我的一个梦，在那里有我为一只脆弱易碎的黑鸟在一棵橡树下举行了葬礼，立下了一块木制墓碑。
+- 欢迎用电子邮箱与我聊天: petitmi001#gmail.com
 
-我一直幻想等我死后会有什么留在这个世界上，于是我想到了我写的那些歌，还有写的文字。但那天王狗说我死了也不会有人想看我写的那些东西，这让我略为沮丧，但很快就好了。但我还是想写，所以有了这里。“黑鸟在树下”源自我的一个梦，在那里有我为一只脆弱易碎的黑鸟在一棵橡树下举行了葬礼，立下了一块木制墓碑。
+<!-- 我一直幻想等我死后会有什么留在这个世界上，于是我想到了我写的那些歌，还有写的文字。但那天王狗说我死了也不会有人想看我写的那些东西，这让我略为沮丧，但很快就好了。但我还是想写，所以有了这里。 -->
+
+以上内容在下次编辑前有效。
         </td>
         <td> 
-**G’day, mate.** It's me, a mysticorgi (mysterious corgi) living in Western Canada who often oscillates between contradictions and goes against the grain. I'm not very shrewd, and I consider that a virtue. In the Myers-Briggs Type Indicator (MBTI), I identify as [INTP-T](https://www.16personalities.com/intp-personality). However, I sometimes transform among INFP and ENTP, which implies that I'm a contradictory individual who often goes against the grain. 
+**G’day, dute.** come on, sit down inside, what brings you here. There you go, data science and business oriented career epiphanies are in [Bread](https://petitmi.com/bread). Others are in [Juicy](https://petitmi.com/juicy), including emotional night talk, urban legends, love education and all the rest. The content is written in [Chinese](https:petitmi.com/categories/%E4%B8%AD%E6%96%87/) and [English](https:petitmi.com/categories/english/) and can be filtered by *Seeds-Categories*! .
 
-Here, I document my thoughts and beliefs, which can be primarily found in [Juicy](https://petitmi.com/juicy). My profession has always revolved around data science, which has consumed a huge portion of my life through my career and academic study. Within it, there are aspects that require sheer willpower to persevere, but still many excitements and insights from them. You can find this content under [Bread](https://petitmi.com/bread). Articles are written in [Chinese](https:petitmi.com/categories/%E4%B8%AD%E6%96%87/) and [English](https:petitmi.com/categories/english/), which can be filtered through *Seeds-Categories*.
 
-**Some of my other facts:**\
-I am fond of music that incorporates elements of blues, jazz, electronic, or space pop. There's something about music with a waltz rhythm that inexplicably moves me.\
-I enjoy combat sports, especially the kind that takes place in the ring.\
-I like juicy things, which explains my love for rich-flavored Asian foods and comedies. But note, 'juicy' is different from 'oily'. \
-Besides, even I have good endurance, I hate activities that rely solely on perseverance, unless I don’t feel this way.\
-email: petitmi001#gmail.com
+<!-- It's me,  In the Myers-Briggs Type Indicator (MBTI), I identify as [INTP-T](https://www.16personalities.com/intp-personality). However, I sometimes transform among INFP and ENTP, which implies that I'm a contradictory individual who often goes against the grain.  -->
 
-I've always pondered what I'd leave behind in this world after I pass away. This leads me to the songs I've composed, as well as my writtings. Yet, Magifrenchie once told me that nobody would be interested in reading my works after my demise. This left me slightly dejected, but I soon rebounded for some reason. Regardless, I still yearn to write, which is why this space exists. The name of this site originates from a dream of mine. Beneath an oak tree, I conducted a funeral for a seemingly fragile and delicate blackbird. I cradled it and placed it into a wooden coffin, then erected a wooden tombstone.
+
+
+**Some of my other facts:**
+- I have many [names](/juicy/20230831-name-preceeds-essence/), Chinese name: Yuchen Zhang, English name: Nyx, nicknames: Mimizi, Zhang Ğoey and others better not show here.
+- I have a sense of presence when creating. Similar feelings take place when I played chess as a child, sparring with people in the ring, and so on.
+- Love music with elements like blues, jazz, electronic, space pop, etc. Music with three-beat rhythms sometimes touches me in an unexplained way. 
+- Like to be juicy, and in my opinion Asian food and comedy share that trait. But note that juicy is not greasy. 
+- "Blackbird Under the Tree" comes from a dream where I held a funeral for a fragile blackbird under an oak tree and erected a wooden headstone.
+- Feel free to chat with me by e-mail: petitmi001#gmail.com
+
+Expired before next edit.
         </td>
     </tr>
 </table>

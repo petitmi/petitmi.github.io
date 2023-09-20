@@ -1,6 +1,7 @@
 
 
 Here are some thoughts on data science and business topics.
+
 <div id="google_translate_element"></div>
 
 <script type="text/javascript">

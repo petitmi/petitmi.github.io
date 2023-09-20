@@ -1,7 +1,7 @@
 ---
 authors:
  - "Nyx"
-title: "How Does a Large-scale Data Product work?"
+title: "How Does a Large-scale Data Product Work?"
 date: 2023-09-20
 description: ""
 tags: ["data product", "data engineering"]
