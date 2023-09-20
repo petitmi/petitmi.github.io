@@ -6,7 +6,7 @@ date: 2023-09-20
 description: ""
 tags: ["data product", "data engineering"]
 Categories: ["Article", "English"]
-summary: ""
+summary: "It's me - a piece of data, growing within the data flow."
 ---
 <div id="google_translate_element"></div>
 
@@ -42,4 +42,4 @@ We store various types of data in different formats and locations to serve diffe
 ## Data Collection
 If we don't record the data, we won't have it. It might sound trivial, but it's a truth. If we miss how users react when watching the videos, we won't be able to analyze why people are leaving the video channel on our product, not to mention building personalized video recommendations for users.
 
- Data logging is typically the responsibility of front-end and back-end engineers, but data scientists must clearly define the timing and format for **tracking events**. This also requires a scalable and long-term vision for the data products.
+Data logging is typically the responsibility of front-end and back-end engineers, but data scientists must clearly define the timing and format for **tracking events**. This also requires a scalable and long-term vision for the data products.
