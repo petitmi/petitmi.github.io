@@ -4,7 +4,7 @@ authors:
 title: "My Thoughts On Project Management"
 date: 2023-09-18
 description: ""
-tags: ["Project Management"]
+tags: ["Tech Project Management"]
 Categories: ["Article", "English"]
 summary: "More comprehensive experiences may have been summarized elsewhere, but here's my first-hand insight. About profit estimation, company's mission, tradeoffs and coorperations."
 ---
@@ -40,7 +40,5 @@ As the ancient philosopher Lao Tzu advised, '**seize the momentum and go with th
 
 According to Bayesian statistics, **the stronger the prior knowledge, the faster the convergence**. Having the knowledge needed for the core part of the project and understanding the necessary parts of the other aspects reduces the chances of being fooled.
 
-## It's team, not battlefields.
-**Diversity helps every individual get wiser through expressing and arguing their viewpoints**. Give everyone to express their concerns and put too less emotion in it, after all it’s a job. 
-
-**Establishing a clear decision-making process** is crutial to deal with conflicts. We have to set the boundary of reaching the final decision. Once the decision is made, we are supposed to set aside any lingering doubts and walk together.
+## Who makes the decision?
+**Establishing a clear decision-making process** is key to dealing with conflict. We must set boundaries for reaching a final decision. Once a decision is made, we should put aside all doubts and walk together. Even if we know we will fail, we should follow the rules of consensus. And decision-makers also need time and experience to grow.
