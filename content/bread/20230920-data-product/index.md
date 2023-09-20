@@ -31,7 +31,7 @@ My community is diverse, comprising **structured data** that can be easily store
 The data product can be an **analysis report, a visualization dashboard, or an automatic data model running in production**, depending on different business objectives and phases. However, regardless of the type of data product, substantial data analysis is required. Various methods, such as exploratory data analysis, machine learning, and deep learning, are typically applied and often combined to obtain results.
 
 ## Data Preperation
-The tasks here primarily involve **data cleaning, wrangling, and transformation**, rendering the data in a format suitable for mathematical and computational operations. To illustrate this process with the early-stage Natural Language Processing (NLP) as an example, words are indexed based on their occurrence in the corpus, typically organized into 'bags of words'.
+The tasks here primarily involve **data cleaning, wrangling, and transformation**, rendering the data in a format suitable for mathematical and computational operations. Illustrating this process with the early-stage Natural Language Processing (NLP), words are indexed based on their occurrence in the corpus, typically organized into 'bags of words'.
 
 ## Data Storage
 We store various types of data in different formats and locations to serve different purposes. Massive computations occur during the early hours on mountains of high-volume remote servers. A 1TB hard drive can accommodate up to 200 billion words, while large internet companies often need to process PBs (1PB = 1024TB) of data per day. Therefore robust data processing streams and data warehousing stacks are needed.
