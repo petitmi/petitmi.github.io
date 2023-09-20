@@ -43,4 +43,4 @@ According to Bayesian statistics, **the stronger the prior knowledge, the faster
 ## Who makes the decision?
 **Establishing a clear decision-making process** is key to dealing with conflict. We must set boundaries for reaching a final decision. Once a decision is made, we should put aside all doubts and move together in the same direction.
 
-In certain specific areas, we have more expertise than the decision-makers, which is why we were hired. There are instances where we know that following the decision they have made will lead to failure. However, even in such cases, we still need to go ahead in this way. **It's the rules of consensus, and we need to wait for decision-makers, who also need time to  learn and develop.**
+In certain specific areas, we have more expertise than the decision-makers, which is why we were hired. There are instances where we know that following the decision they have made will lead to failure. However, even in such cases, **we still need to go ahead in the way of consensus. We sometimes need to exercise patience for decision-makers, who also need time to learn and develop.**
