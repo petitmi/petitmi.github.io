@@ -1,7 +1,7 @@
 ---
 authors:
  - "Nyx"
-title: "My Thoughts On Project Management"
+title: "Hands-on Takeaways On Tech Project Management"
 date: 2023-09-18
 description: ""
 tags: ["Tech Project Management"]
