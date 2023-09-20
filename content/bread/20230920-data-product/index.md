@@ -36,8 +36,9 @@ The tasks here primarily involve **data cleaning, wrangling, and transformation*
 ## Data Storage
 We store various types of data in different formats and locations to serve different purposes. Massive computations occur during the early hours on mountains of high-volume remote servers. A 1TB hard drive can accommodate up to 200 billion words, while large internet companies often need to process PBs (1PB = 1024TB) of data per day. Therefore robust data processing streams and data warehousing stacks are needed.
 
-**Data warehouses** typically consist of three layers: the operational data store (ODS), common data model (CDM), and application data service (ADS). The ODS primarily stores raw or lightly structured data. The CDM contains highly detailed factual data, public summary data, and dimension data. Data in the ADS layer is intended for direct use, such as metrics displayed on data dashboards.
- 
+**Data warehouses** typically consist of three layers: the operational data store (ODS), common data model (CDM), and application data service (ADS). The ODS primarily stores raw or lightly structured data such as detailed conditions for every user click. The CDM contains highly detailed factual data such as the details of every ordering process, public summary data such as per clicks of per users per day, and dimension data such as user labels. Data in the ADS layer is intended for direct use, such as metrics displayed on data dashboards.
+
+Various data infrastructure may feature tailored layers, but they typically share similar concepts. 
 
 ## Data Collection
 If we don't record the data, we won't have it. It might sound trivial, but it's a truth. If we miss how users react when watching the videos, we won't be able to analyze why people are leaving the video channel on our product, not to mention building personalized video recommendations for users.
