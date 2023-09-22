@@ -6,7 +6,7 @@ date: 2023-09-18
 description: ""
 tags: ["Tech Project Management"]
 Categories: ["Article", "English"]
-summary: "More comprehensive experiences may have been summarized elsewhere, but here's my first-hand insight. About profit estimation, company's mission, tradeoffs and coorperations."
+summary: "More comprehensive lessons may have been summarized elsewhere, but here are my first-hand insights and they are directly actionable. On profit estimates, company missions, trade-offs, and decision-making."
 ---
 <div id="google_translate_element"></div>
 

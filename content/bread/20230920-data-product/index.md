@@ -23,7 +23,7 @@ I was born when a fragment of **logging** code detected someone's click on an ar
 
 It's me - a piece of data, growing within the **data flow**. 
 
-After my birth, I transitioned to a **remote server**, moving from a **database** to a **data warehouse**. Then I participated in various **analyzes**, with plenty of activities of being extracted and transformed. Finally, my lagacy contributes to an **online recommendation product** running in production, which operates on terminal phones. The product facilitates the birth of more data pieces like me.
+After my birth, I transitioned to a **remote server**, moving from a **database** to a **data warehouse**. Then I participated in various **analyzes**, with plenty of activities of being extracted and transformed. Finally, the legacy of my community (and of course myself) contributed to an **online recommendation product** running in production, which operates on terminal phones. The product then facilitated the birth of more data pieces like me.
 
 My community is diverse, comprising **structured data** that can be easily stored in tables, **unstructured data** such as audio and text documents, and even **semi-structured data** that combines elements of both, like email.
 
