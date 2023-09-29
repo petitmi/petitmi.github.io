@@ -41,6 +41,6 @@ We store various types of data in different formats and locations to serve diffe
 Various data infrastructure may feature tailored layers, but they typically share similar concepts. 
 
 ## Data Collection
-If we don't record the data, we won't have it. It might sound trivial, but it's a truth. If we miss how users react when watching the videos, we won't be able to analyze why people are leaving the video channel on our product, not to mention building personalized video recommendations for users.
+If we don't record the data, we won't have it. It might sound trivial, but it's a fundamental truth. It frequently occurs that we need to analyze something, only to discover suddenly that we lack even the raw data. For example, let's say we notice a decline in active users on our video channels and wish to uncover the reasons. We aim to examine the average total watch time for each user and delve into various categories. However, we overlooked collecting data on user activities during their video watching sessions, as well as the time and positions where they exit the videos. If we fail to do well in the analysis of user behaviors, not to mention to build personalized video recommendations for them.
 
 Data logging is typically the responsibility of front-end and back-end engineers, but data scientists must clearly define the timing and format for **tracking events**. This also requires a scalable and long-term vision for the data products.
