@@ -67,11 +67,11 @@ Given the complexity of sales prediction and the multitude of factors influencin
 
 ### 2. Purchase Optimization 
 
-This part is commonly used in various e-commerce analysis models. To attract more customers and enhance their purchasing experience, it is essential to conduct user analysis, marketing analysis, and implement a personalized recommendation system.
+This part is commonly used in various e-commerce analysis models. To attract more customers and enhance their purchasing experience, it is essential to conduct **user analysis**, **product analysis**, **marketing analysis**, and implement a **personalized recommendation pipeline**.
 
 Understanding the **target customer base** and identifying **potential customers** is crucial. User segmentation based on factors such as occupation and consumption habits allows us to distinguish between existing customers and potential ones. Managing the user lifecycle can be achieved through the AARRR model, which stands for Acquisition, Activation, Retention, Referral, and Revenue. This model has been extensively researched and is a valuable tool. Additionally, specific sub-analyses like Traffic Source Analysis, Conversion Rate Analysis, and Repeat Purchase Analysis can be applied.
 
-When it comes to implementing a personalized recommendation system, Machine Learning Methods for prediction and ranking, as well as A/B Testing for evaluation, have reached a high level of maturity.
+When it comes to implementing a personalized recommendation system, Machine Learning Methods for prediction and ranking, as well as [A/B Testing](/20221001-ab-testing/) for evaluation, have reached a high level of maturity.
 
 ### 3. Loss Management
 
@@ -85,7 +85,7 @@ Apart from these considerations, **route optimization**, including *geodata anal
 
 The community group-buying model offers lower prices and reasonable delivery times, which are its primary advantages. However, lower prices often coincide with lower product quality, which can deter regular customers.
 
-To implement quality analysis, the first step is to establish an indicator that reflects the quality status. The most common indicator is the **refund rate**, which calculates the number of refunds for SKUs, orders, or users. Its caliber is {{< katex >}}\\(\frac{returned \enspace SKUs/orders/users}{sales/fulfillments \enspace on \enspace the \enspace fulfilling \enspace day}\\).
+To implement quality analysis, the first step is to establish an indicator that reflects the quality status. The most common indicator is the **refund rate**, which calculates the number of refunds for SKUs, orders, or users. Its caliber is {{< katex >}}\\(\frac{\text{returned SKUs/orders/users}}{\text{sales/fulfillments on the fulfilling day}}\\).
 
 However, this indicator has a **latency** issue. Consider a scenario where you purchase a box of grapes, only to discover two days later that they are spoiled and need to be returned. Due to your schedule, it takes another day before you can return the item. This results in a three-day lag in the indicator. The indicator becomes accurate and stable only after the refund window has closed.
 
