@@ -29,8 +29,7 @@ In 2019, the year was marked by the 70th anniversary of the founding of the Peop
 
 In China, people were intermittently confined to their homes on a city-by-city basis for the next three years. People were only allowed to receive food deliveries rather than go outside to pick up food. However, the delivery system was also blocked, so those who delivered essentials to individuals could only do so on behalf of the community. This was the time when community group-buying became known throughout China, though it was not the time of its inception.
 
-Working at a major online retail company and focusing on the community group-buying business allowed me to witness how community group-buying grew during the three years of Covid-19, when people were struggling with city lockdowns and economic devastation.
-
+<!-- Working at a major online retail company and focusing on the community group-buying business allowed me to witness how community group-buying grew during the three years of Covid-19, when people were struggling with city lockdowns and economic devastation. -->
 There are two dominant features in community group-buying compared to the online retail model: the first is **pre-sale with next-day delivery**, and the other is **community pickup**. Although this model is crucial during special situations like lockdown days, it also works well in normal daily life if the prices are low enough, and the items are diverse and of high quality.
 
 ## What is community group-buying?
