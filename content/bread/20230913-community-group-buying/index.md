@@ -1,10 +1,10 @@
 ---
 authors:
  - "Nyx"
-title: "Data Science In Community Group-Buying, Especially Its Supply Chain"
+title: "Data Science In E-commerce Platforms Driven By Supply Chain Optimization"
 date: 2023-09-13
 description: ""
-tags: ["data science", "community group-buying"]
+tags: ["data science", "community group-buying", "business analysis"]
 Categories: ["Article", "English"]
 summary: "There are two dominant features in group-buying compared to the online retail model: the first is pre-sale with next-day delivery, and the other is community pickup."
 ---
