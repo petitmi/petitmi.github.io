@@ -48,11 +48,12 @@ Which of the following scenarios are applicable for A/B test?
 table, tr, td, th{
 padding: 10px;
 margin: auto;
-border: none;
+/* border: none; */
 text-align: center;
 }
 </style>
-<table border-collapse="collapse">
+<table>
+<!-- border-collapse="collapse" -->
   <tr >
     <td><img src="binomial.png"  width=100% /> </td>
     <td><img src="poisson.png" /></td>
