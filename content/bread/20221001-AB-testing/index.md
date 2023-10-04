@@ -4,7 +4,7 @@ authors:
 title: "AB Testing Summary"
 date: 2020-10-01
 description: ""
-tags: ["data science", "A/B Testing", "Product Analysis"]
+tags: ["data science", "A/B testing", "product analysis"]
 Categories: ["Article", "English"]
 summary: "All about A/B testing: History; Procedure; Statistical theory; Example; Pitfalls"
 ---

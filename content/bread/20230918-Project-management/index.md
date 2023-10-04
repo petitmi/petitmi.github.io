@@ -4,7 +4,7 @@ authors:
 title: "Hands-on Takeaways On Tech Project Management"
 date: 2023-09-18
 description: ""
-tags: ["Tech Project Management"]
+tags: ["tech project management"]
 Categories: ["Article", "English"]
 summary: "More comprehensive lessons may have been summarized elsewhere, but here are my first-hand insights and they are directly actionable. On profit estimates, company missions, trade-offs, and decision-making."
 ---
