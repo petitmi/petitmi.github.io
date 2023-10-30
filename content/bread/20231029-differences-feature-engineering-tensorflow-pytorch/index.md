@@ -1,6 +1,6 @@
 ---
 authors:
- - "Nyx"
+- "Nyx"
 title: "Feature Engineering"
 date: 2023-10-29
 description: ""
@@ -12,7 +12,7 @@ summary: ""
 
 <script type="text/javascript">
 function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
 }
 </script>
 
@@ -43,6 +43,9 @@ For example, longitude can be numeric.
 **Hashing**: Hashing transforms categorical variables to a fixed-size vector, which can be particularly useful when dealing with a vast number of categories or when the set of categories can change over time. The main advantage is that it doesn't require memory to store mappings for each category.
 
 ## Frameworks Comparison
+In TensorFlow, the boundary between preprocessing and modeling can be blurred. For example, in TensorFlow, users can seamlessly perform operations on tensors (its fundamental data structure) during preprocessing, modeling, and even during deployment. 
+
+In PyTorch, operations are executed immediately, and results are returned right away, which is more imperative and seperate. Because of this design philosophy, PyTorch is stricter about the transition from regular data (like lists, arrays) to tensors. PyTorch wants to ensure that by the time data is in tensor format, it's ready to be processed without many additional transformations. 
 ### TensorFlow
 In TensorFlow, especially with tf.feature_column, feature transformations can be defined within the model itself. This means that once the model is trained, it can take raw data as input and perform the necessary transformations internally. 
 <img src="fe_tf1.jpg" alt="process"/>
