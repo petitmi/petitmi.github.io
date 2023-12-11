@@ -85,6 +85,10 @@ img {
 
 <div class="container">
   <div class="mySlides">
+    <img src="gallery/gongxi.jpg"  style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="Me playing rock">
+
+  </div>
+  <div class="mySlides">
     <img src="gallery/me_duck.jpg"  style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="Me And A Canadian Duck">
 
   </div>
@@ -93,21 +97,6 @@ img {
     <img src="gallery/self.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(2)" alt="Two Me In A Time. Souce: Magifrenchie, and Peacinu">
   </div>
 
-  <div class="mySlides">
-    <img src="gallery/3dogs.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(3)" alt="Magifrenchie, Mysticorgi and Peacisbar">
-  </div>
-
-  <div class="mySlides">
-    <img src="gallery/xian_night.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(4)" alt="Some Night In Xi'an">
-  </div>
-
-  <div class="mySlides">
-    <img src="gallery/wolf.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(5)" alt="Wolf In A Hole Watching Outward">
-  </div>
-
-  <div class="mySlides">
-    <img src="gallery/dontpanic.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(6)" alt="Precious Drawing Of Don't Panic. Source: Magifrenchie">
-  </div>
     
   <a class="prev" onclick="plusSlides(-1)">❮</a>
   <a class="next" onclick="plusSlides(1)">❯</a>
