@@ -84,14 +84,13 @@ img {
 # Nyx
 
 <div class="container">
-  <div class="mySlides">
+  <!-- <div class="mySlides">
     <img src="gallery/gongxi.jpg"  style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="Me playing rock">
 
   </div>
   <div class="mySlides">
     <img src="gallery/me_duck.jpg"  style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="Me And A Canadian Duck">
-
-  </div>
+  </div> -->
 
   <div class="mySlides">
     <img src="gallery/self.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(2)" alt="Two Me In A Time. Souce: Magifrenchie, and Peacinu">
@@ -108,7 +107,21 @@ img {
 
 </div>
 
-**G’day, dute.** Guess you are looking for [Bread](https://petitmi.com/bread).
+**My Monologue** 
+
+I am data rows in the servers of internet platforms, but my existence is not  
+I am flesh and blood with my sophiscated feelings and thoughts   
+I feel good and I feel lost  
+  
+I live and work backed up by the generations' wisdoms  
+But I am not satisfied with this security zone  
+I look at where my heart drums  
+  
+I eat and excrete, sing and drink, burn and rest   
+just like billions of others in this world  
+but I am unique with no doubt
+
+> Some of my data analytics portfolio: [Bread](https://petitmi.com/bread).
 
 <!-- <table class="translation">
     <tr>
