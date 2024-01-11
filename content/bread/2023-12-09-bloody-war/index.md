@@ -18,5 +18,6 @@ new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_el
 
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
-https://medium.com/@petitmi001/how-likely-will-a-bloody-war-break-out-af87d6157bd8
+Noticing more articles were emerged on the Medium Platform, I tried it out to publish this analysis, check it out here: https://medium.com/@petitmi001/how-likely-will-a-bloody-war-break-out-af87d6157bd8
 
+*I found Medium to be user-friendly, offering a seamless and straightforward experience. However, I was bummed that it doesn't support exporting to the .md format, which will make it cumbersome to keep consistent updates here. So I decided to post the link as above, sorry for bringing the hassle over here.*
