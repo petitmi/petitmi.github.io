@@ -108,7 +108,7 @@ img {
 </div>
 
 <!-- **My Monologue:**   -->
-I work on data, as a data analyst or a data scientist as you call me. I have a bachelor's in statistics and a master's in data science, with 5 years of industry experience. I am knowledgeable about how data flow works and have led multiple end-to-end projects in both data analytics and machine learning.
+I work on data, as a data analyst or a data scientist as you call me. I have a bachelor's in statistics and a master's in data science, with 5 years of industry experience. I am knowledgeable about [how data flow works](https://petitmi.com/bread/20230920-data-product/) and have led multiple end-to-end projects in both data analytics and machine learning.
 
 In my spare time, I enjoy boxing, music, and discussing movies and books with beloved friends.
 
