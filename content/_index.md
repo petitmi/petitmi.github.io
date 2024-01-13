@@ -86,8 +86,8 @@ img {
 <div class="container">
   <!-- <div class="mySlides">
     <img src="gallery/gongxi.jpg"  style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="Me playing rock">
+  </div> 
 
-  </div>
   <div class="mySlides">
     <img src="gallery/me_duck.jpg"  style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="Me And A Canadian Duck">
   </div> -->
@@ -107,21 +107,14 @@ img {
 
 </div>
 
-**My Monologue** 
+<!-- **My Monologue:**   -->
+I work on data, as a data analyst or a data scientist as you call me. I have a bachelor's in statistics and a master's in data science, with 5 years of industry experience. I am knowledgeable about how data flow works and have led multiple end-to-end projects in both data analytics and machine learning.
 
-I am data rows in the servers of internet platforms, but my existence is not  
-I am flesh and blood with my sophiscated feelings and thoughts   
-I feel good and I feel lost  
-  
-I live and work backed up by the generations' wisdoms  
-But I am not satisfied with this security zone  
-I look at where my heart drums  
-  
-I eat and excrete, sing and drink, burn and rest   
-just like billions of others in this world  
-but I am unique with no doubt
+In my spare time, I enjoy boxing, music, and discussing movies and books with beloved friends.
 
-> Some of my data analytics portfolio: [Bread](https://petitmi.com/bread).
+I feel it's an unstoppable trend that people are becoming data rows crossed in servers of internet platforms, which makes my work increasingly important. But I believe it's never the definition of human existence, and the most precious part of humanity is sophisticated feelings and thoughts, both good and lost.
+
+> Some of my portfolio and thoughts: [Bread](https://petitmi.com/bread).
 
 <!-- <table class="translation">
     <tr>
