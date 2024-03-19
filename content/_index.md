@@ -90,7 +90,7 @@ img {
   </div>
 
   <div class="mySlides">
-    <img src="gallery/ideal-life.jpg"  style="width:100%" class="demo cursor" onclick="currentSlide(2)" alt="My ideal life (HAHA)">
+    <img src="gallery/ideal-life.JPG"  style="width:100%" class="demo cursor" onclick="currentSlide(2)" alt="My ideal life (HAHA)">
   </div> 
     
   <a class="prev" onclick="plusSlides(-1)">❮</a>
