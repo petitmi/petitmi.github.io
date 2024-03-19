@@ -88,14 +88,15 @@ img {
     <img src="gallery/gongxi.jpg"  style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="Me playing rock">
   </div> 
 
-  <div class="mySlides">
-    <img src="gallery/me_duck.jpg"  style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="Me And A Canadian Duck">
-  </div> -->
+
 
   <div class="mySlides">
-    <img src="gallery/self.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(2)" alt="Two Me In A Time. Souce: Magifrenchie, and Peacinu">
+    <img src="gallery/self.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(2)" alt="Me in my friends' views">
   </div>
 
+  <div class="mySlides">
+    <img src="gallery/ideal-life.jpg"  style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="My ideal life (HAHA)">
+  </div> -->
     
   <a class="prev" onclick="plusSlides(-1)">❮</a>
   <a class="next" onclick="plusSlides(1)">❯</a>
@@ -108,41 +109,17 @@ img {
 </div>
 
 <!-- **My Monologue:**   -->
-I work on data, as a data analyst or a data scientist as you call me. I have a bachelor's in statistics and a master's in data science, with 5 years of industry experience. I am knowledgeable about [how data flow works](https://petitmi.com/bread/20230920-data-product/) and have led multiple end-to-end projects in both data analytics and machine learning.
+I am a data analyst. I see things inside data and build products to let you see them too.
 
-In my spare time, I enjoy boxing, music, and discussing movies and books with beloved friends.
+Check out stuffs about me!
+[Blogs](https://petitmi.com/bread) | [Medium](https://medium.com/@petitmi001) | [Linkedin](https://www.linkedin.com/in/yuchen-nyx-zhang/) | [Youtube]https://www.youtube.com/channel/UC6YTScw2p9u6AHp-tgXDIrA
 
-I feel it's an unstoppable trend that people are becoming data rows crossed in servers of internet platforms, which makes my work increasingly important. But I believe it's never the definition of human existence, and the most precious part of humanity is sophisticated feelings and thoughts, both good and lost.
-
-> Some of my portfolio and thoughts: [Bread](https://petitmi.com/bread).
-
-<!-- <table class="translation">
-    <tr>
-        <td>
-**嘿，伙计** 你好。在这儿，以数据科学和商业为主职业感悟在[Bread](https://petitmi.com/bread)中。其他的在[Juicy](https://petitmi.com/juicy)里，包括情感夜话、都市传说、爱的教育和其他所有。内容是由[中文](https:petitmi.com/categories/%E4%B8%AD%E6%96%87/)和[英文](https:petitmi.com/categories/english/)书写的，可以通过*Seeds-Categories*筛选。
-
-**关于我的一些事实：**
-- 我的[名字](/juicy/20230831-name-preceeds-essence/):张雨晨，Nyx。
-- 喜欢包含布鲁斯、爵士、电子、太空流行之类元素的音乐，三拍子律动的音乐有时会不明所以地触动我。
-- 欢迎用电子邮箱与我聊天: petitmi001#gmail.com
-
-
-以上内容在下次编辑前有效。
-        </td>
-        <td> 
-
-**G’day, dute.** There you go, data science and business oriented career epiphanies are in [Bread](https://petitmi.com/bread). Others are in [Juicy](https://petitmi.com/juicy), including emotional night talk, urban legends, love education and all the rest. The content is written in [Chinese](https:petitmi.com/categories/%E4%B8%AD%E6%96%87/) and [English](https:petitmi.com/categories/english/) and can be filtered by *Seeds-Categories*! .
-
-
-**Some of my other facts:**
-- My [names](/juicy/20230831-name-preceeds-essence/), Yuchen Zhang, Nyx and so on.
-- Love music with elements like blues, jazz, electronic, space pop, etc. Music with three-beat rhythms sometimes touches me in an unexplained way. 
-- Feel free to chat with me by e-mail: petitmi001#gmail.com
-
-Expired before next edit.
-        </td>
-    </tr>
-</table> -->
+Fun facts about me:
+- I live in Canada and love it more every day. I hope to travel to Montreal, the Yukon and beyond.
+- I'm from Xi'an, the historic city of China, also as known as the Carb food city. And I like Sichuan/Choqing/Chaoshan Hotpot, [Xi'an Liangpi](https://www.chinaxiantour.com/xian-travel-guides/xian-local-food/liangpi.html). 
+- I wrote songs, and becaused of one of the songs, I was banned by a UGC website similar to Youtube. I love songs with electron, Jazz, or catchy sound effects factors, either floating or provoking.
+- I feel never statisfied with my self introduction. So it changes often.
+- I take all my pictures for laughs, so I have a tough time finding LinkedIn profile avatars or the gallery above.
 
 <script>
 let slideIndex = 1;
