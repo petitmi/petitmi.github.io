@@ -84,19 +84,14 @@ img {
 # Nyx
 
 <div class="container">
-  <!-- <div class="mySlides">
-    <img src="gallery/gongxi.jpg"  style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="Me playing rock">
-  </div> 
-
-
 
   <div class="mySlides">
-    <img src="gallery/self.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(2)" alt="Me in my friends' views">
+    <img src="gallery/self.jpg" style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="Me in my friends' views">
   </div>
 
   <div class="mySlides">
-    <img src="gallery/ideal-life.jpg"  style="width:100%" class="demo cursor" onclick="currentSlide(1)" alt="My ideal life (HAHA)">
-  </div> -->
+    <img src="gallery/ideal-life.jpg"  style="width:100%" class="demo cursor" onclick="currentSlide(2)" alt="My ideal life (HAHA)">
+  </div> 
     
   <a class="prev" onclick="plusSlides(-1)">❮</a>
   <a class="next" onclick="plusSlides(1)">❯</a>
@@ -109,17 +104,15 @@ img {
 </div>
 
 <!-- **My Monologue:**   -->
-I am a data analyst. I see things inside data and build products to let you see them too.
+I am a data analyst/scientist. I see things behind data and build products to let you see them too.
 
-Check out stuffs about me!
-[Blogs](https://petitmi.com/bread) | [Medium](https://medium.com/@petitmi001) | [Linkedin](https://www.linkedin.com/in/yuchen-nyx-zhang/) | [Youtube]https://www.youtube.com/channel/UC6YTScw2p9u6AHp-tgXDIrA
+Check out the links about me: [Blogs](https://petitmi.com/bread) | [Medium](https://medium.com/@petitmi001) | [Linkedin](https://www.linkedin.com/in/yuchen-nyx-zhang/) | [Youtube](https://www.youtube.com/channel/UC6YTScw2p9u6AHp-tgXDIrA)
 
 Fun facts about me:
-- I live in Canada and love it more every day. I hope to travel to Montreal, the Yukon and beyond.
-- I'm from Xi'an, the historic city of China, also as known as the Carb food city. And I like Sichuan/Choqing/Chaoshan Hotpot, [Xi'an Liangpi](https://www.chinaxiantour.com/xian-travel-guides/xian-local-food/liangpi.html). 
-- I wrote songs, and becaused of one of the songs, I was banned by a UGC website similar to Youtube. I love songs with electron, Jazz, or catchy sound effects factors, either floating or provoking.
-- I feel never statisfied with my self introduction. So it changes often.
-- I take all my pictures for laughs, so I have a tough time finding LinkedIn profile avatars or the gallery above.
+- I live in Canada and love it more every day. I love the community, values, weather, wild animals here. I hope to travel to Montreal, the Yukon and beyond.
+- Born in Asian, in addition to getting access to the shared pain often found in Asian families, I am also able to access the so many cuisines. I like Sichuan/Choqing/Chaoshan Hotpot, [Xi'an Liangpi](https://www.chinaxiantour.com/xian-travel-guides/xian-local-food/liangpi.html), and almost all the Asian food. 
+- I wrote songs, and becaused of one of the songs was too aggressive, I got banned by a UGC website similar to Youtube. I love songs with electron, Jazz, or catchy sound effects factors, either floating or aggressive.
+- The main reason I choose to keep a photo or not is whether it's hilarious or not, so I have a tough time finding photos for LinkedIn profile avatars or the gallery above. And I feel never statisfied with my self introduction. So it changes from time to time.
 
 <script>
 let slideIndex = 1;
