@@ -1,5 +1,5 @@
 ---
-title: "My Journal About The Onboarding Day"
+title: "Journal: My Onboarding Day"
 date: 2024-03-19
 description: ""
 tags: ["journal",]
