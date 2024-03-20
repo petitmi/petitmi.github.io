@@ -1,6 +1,6 @@
 ---
-authors:
- - "Nyx"
+# authors:
+#  - "Nyx"
 title: "AB Testing Summary"
 date: 2020-10-01
 description: ""
