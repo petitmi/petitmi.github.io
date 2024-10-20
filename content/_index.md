@@ -101,7 +101,7 @@ img {
   </div>
 
 
-</div>Mixed Land
+</div>
 
 <!-- **My Monologue:**   -->
 I am a data analyst/scientist. I see things behind data and build products to let you see them too.
