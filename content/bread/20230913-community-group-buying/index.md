@@ -1,6 +1,6 @@
 ---
-authors:
- - "Nyx"
+# authors:
+#  - "Nyx"
 title: "Data Science In E-commerce Platforms Driven By Supply Chain Optimization"
 date: 2023-09-13
 description: ""

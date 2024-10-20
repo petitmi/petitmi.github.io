@@ -1,6 +1,6 @@
 ---
-authors:
- - "Nyx"
+# authors:
+#  - "Nyx"
 title: "Hands-on Takeaways On Tech Project Management"
 date: 2023-09-18
 description: ""
