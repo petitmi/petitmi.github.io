@@ -81,7 +81,7 @@ img {
 
 <body>
 
-# Nyx
+# 
 
 <div class="container">
 
@@ -101,18 +101,12 @@ img {
   </div>
 
 
-</div>
+</div>Mixed Land
 
 <!-- **My Monologue:**   -->
 I am a data analyst/scientist. I see things behind data and build products to let you see them too.
 
 Check out the links about me: [Blogs](https://petitmi.com/bread) | [Medium](https://medium.com/@petitmi001) | [Linkedin](https://www.linkedin.com/in/yuchen-nyx-zhang/) | [Youtube](https://www.youtube.com/channel/UC6YTScw2p9u6AHp-tgXDIrA)
-
-Fun facts about me:
-- I live in Canada and love it more every day. I love the community, values, weather, wild animals here. I hope to travel to Montreal, the Yukon and beyond.
-- Born in Asian, in addition to getting access to the shared pain often found in Asian families, I am also able to access the so many cuisines. I like Sichuan/Choqing/Chaoshan Hotpot, [Xi'an Liangpi](https://www.chinaxiantour.com/xian-travel-guides/xian-local-food/liangpi.html), and almost all the Asian food. 
-- I wrote songs, and becaused of one of the songs was too aggressive, I got banned by a UGC website similar to Youtube. I love songs with electron, Jazz, or catchy sound effects factors, either floating or aggressive.
-- The main reason I choose to keep a photo or not is whether it's hilarious or not, so I have a tough time finding photos for LinkedIn profile avatars or the gallery above. And I feel never statisfied with my self introduction. So it changes from time to time.
 
 <script>
 let slideIndex = 1;
